@@ -4,6 +4,8 @@ from __future__ import annotations
 
 import json
 import os
+import re
+import shlex
 from pathlib import Path
 import signal
 import subprocess
@@ -134,12 +136,18 @@ class ChatBackend:
 
     def __init__(self, config: dict):
         check_keys(config, {"kind", "base_url", "model", "timeout", "max_tokens", "token_field",
-                            "temperature", "json_mode", "api_key_env", "extra"}, "chat backend")
+                            "temperature", "json_mode", "api_key_env", "env_file", "extra"}, "chat backend")
         positive(config.get("timeout", 120), "chat timeout")
         positive(config.get("max_tokens", 8192), "max_tokens", integer=True)
         require_text(config.get("model"), "Chat backend explicit model")
         if "api_key_env" in config:
             require_text(config["api_key_env"], "api_key_env")
+            if not re.fullmatch(r"[A-Za-z_][A-Za-z0-9_]*", config["api_key_env"]):
+                raise ValueError("api_key_env must be an environment variable name")
+        if "env_file" in config:
+            require_text(config["env_file"], "env_file")
+            if "api_key_env" not in config:
+                raise ValueError("env_file requires api_key_env")
         if config.get("token_field", "max_tokens") not in {"max_tokens", "max_completion_tokens"}:
             raise ValueError("token_field must be max_tokens or max_completion_tokens")
         if type(config.get("json_mode", True)) is not bool:
@@ -166,8 +174,41 @@ class ChatBackend:
     def close(self) -> None:
         self._closed.set()
 
+    @staticmethod
+    def _credential_value(value: str, name: str) -> str:
+        # urllib header errors may echo malformed values, so reject them first.
+        if not value or any(not 33 <= ord(char) <= 126 for char in value):
+            raise BackendError(f"Invalid credential characters for {name}")
+        return value
+
+    def credential(self, cwd: Path) -> str:
+        name = self.config.get("api_key_env")
+        if not name:
+            return ""
+        if os.environ.get(name):
+            return self._credential_value(os.environ[name], name)
+        if "env_file" in self.config:
+            path = cwd / self.config["env_file"]
+            if not path.is_file():
+                raise BackendError(f"Missing credential file: {self.config['env_file']}")
+            values = []
+            for line in path.read_text(encoding="utf-8").splitlines():
+                match = re.fullmatch(r"\s*(?:export\s+)?" + re.escape(name) + r"\s*=\s*(.*)", line)
+                if match:
+                    try:
+                        tokens = shlex.split(match[1], comments=True, posix=True)
+                    except ValueError:
+                        raise BackendError(f"Invalid credential assignment for {name}") from None
+                    if len(tokens) != 1 or not tokens[0]:
+                        raise BackendError(f"Expected one nonempty credential value for {name}")
+                    values.append(tokens[0])
+            if len(values) == 1:
+                return self._credential_value(values[0], name)
+            if len(values) > 1:
+                raise BackendError(f"Duplicate credential assignment for {name}")
+        raise BackendError(f"Missing credential environment variable: {name}")
+
     def complete(self, prompt: str, schema: dict, folder: Path, cwd: Path) -> dict:
-        del cwd
         if self._closed.is_set():
             raise BackendError("Chat backend is closed; no further calls can start")
         config = self.config
@@ -186,13 +227,12 @@ class ChatBackend:
             raise ValueError("Chat extra cannot override routing, format, or token fields")
         payload.update(extra)
         key_env = config.get("api_key_env")
-        key = os.environ.get(key_env, "") if key_env else ""
-        if key_env and not key:
-            raise BackendError(f"Missing credential environment variable: {key_env}")
+        key = self.credential(cwd)
         headers = {"Content-Type": "application/json"}
         if key:
             headers["Authorization"] = f"Bearer {key}"
-        save_json(folder / "http_request.json", {"url": self.url, "body": payload, "api_key_env": key_env})
+        save_json(folder / "http_request.json", {"url": self.url, "body": payload, "api_key_env": key_env,
+                                                "env_file": config.get("env_file")})
         request = urllib.request.Request(self.url, json.dumps(payload).encode(), headers=headers)
         # Local model servers should not be sent through system HTTP proxies.
         handlers = [urllib.request.ProxyHandler({})] if urllib.parse.urlsplit(self.url).hostname in {

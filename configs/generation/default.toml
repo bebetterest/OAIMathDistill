@@ -1,0 +1,67 @@
+# Default: complete subsection units, DeepSeek Flash thinking, separate model review.
+# Select the first 1000 units in manuscript-id and within-paper order, six methods per unit.
+project_root = "../.."
+source_root = "math"
+
+[run]
+output = "runs/deepseek-first-1000"
+concurrency = 1
+job_order = "source"
+prompt_seed = true
+
+[backends.deepseek]
+kind = "chat"
+base_url = "https://api.deepseek.com"
+model = "deepseek-flash"
+api_key_env = "DEEPSEEK_API_KEY"
+env_file = ".env"
+timeout = 600
+# Includes provider thinking and the final JSON; increase if a response is truncated.
+max_tokens = 32768
+json_mode = true
+
+[backends.deepseek.extra]
+thinking = {type = "enabled"}
+reasoning_effort = "high"
+
+[generation]
+backend = "deepseek"
+
+[review]
+# A separate request with the same model/settings. Use another named backend to override.
+backend = "deepseek"
+
+[[sources]]
+id = "papers"
+mode = "fragment"
+manifest = "configs/sources/native-manuscripts.json"
+unit = "subsection"
+# Slice the corpus before expanding methods. Offset is zero-based; indices in metadata are 1-based.
+offset = 0
+limit = 1000
+# Optional character guard; oversized units raise an error instead of being clipped.
+# max_chars = 40000
+
+[[methods]]
+name = "local_proof"
+params = {count = 1}
+
+[[methods]]
+name = "proof_completion"
+params = {count = 1}
+
+[[methods]]
+name = "proof_repair"
+params = {count = 1}
+
+[[methods]]
+name = "reading"
+params = {count = 1, form = "qa"}
+
+[[methods]]
+name = "reflection"
+params = {count = 1}
+
+[[methods]]
+name = "exploration"
+params = {count = 1}

@@ -20,3 +20,8 @@ Do not represent generated explanations as the original research model's trace.
 Evidence paths must exactly match supplied paths, using 1-based inclusive lines.
 For agent inputs, read the files and cite the actual local ranges used, including
 needed definitions. For fragment inputs, stay within the provided ranges.
+
+Each request may carry a Random seed line. For generation, use it as a variation
+cue when choosing a supported topic, question wording, or reasoning step. Keep
+the seed string out of the student instruction and answer. It is not evidence
+and does not relax mathematical grounding or review requirements.

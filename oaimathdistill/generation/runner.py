@@ -46,7 +46,13 @@ class Plan:
         for name in ("project_root", "source_root"):
             if name in config:
                 require_text(config[name], name)
-        check_keys(config.get("run", {}), {"output", "concurrency"}, "run")
+        check_keys(config.get("run", {}), {"output", "concurrency", "prompt_seed", "job_order"}, "run")
+        self.prompt_seed = config.get("run", {}).get("prompt_seed", True)
+        if type(self.prompt_seed) is not bool:
+            raise ValueError("run.prompt_seed must be a boolean")
+        self.job_order = config.get("run", {}).get("job_order", "method")
+        if self.job_order not in ("method", "source"):
+            raise ValueError("run.job_order must be method or source")
         if "output" in config.get("run", {}):
             require_text(config["run"]["output"], "run.output")
         for name in ("generation", "review"):
@@ -89,13 +95,22 @@ class Plan:
             # Adapter construction validates configuration without making a request.
             make_backend(value).close()
         loader = SourceLoader(self.project, self.source_root)
-        self.sources = {}
+        self.sources, self.source_groups = {}, {}
         for spec in config.get("sources", []):
             if not isinstance(spec, dict):
                 raise ValueError("Each source must be a table")
-            if not isinstance(spec.get("id"), str) or not spec["id"].strip() or spec["id"] in self.sources:
+            if not isinstance(spec.get("id"), str) or not spec["id"].strip() or spec["id"] in self.source_groups:
                 raise ValueError("Sources need unique nonempty string ids")
-            self.sources[spec["id"]] = loader.load(spec)
+            loaded = loader.load_many(spec)
+            self.source_groups[spec["id"]] = [source.id for source in loaded]
+            for source in loaded:
+                if source.id in self.sources:
+                    raise ValueError(f"Colliding expanded source id: {source.id}")
+                self.sources[source.id] = source
+        for key, members in self.source_groups.items():
+            if key in self.sources and members != [key]:
+                raise ValueError(f"Source group conflicts with an expanded source id: {key}")
+        self.source_selection = loader.manifest_selections
         self.jobs = []
         ids = set()
         for number, spec in enumerate(config.get("methods", [])):
@@ -118,9 +133,15 @@ class Plan:
             module = self.methods[method]
             if hasattr(module, "validate_params"):
                 module.validate_params(params)
-            for source_id in text_list(spec.get("sources", list(self.sources)), "method.sources"):
-                if source_id not in self.sources:
+            selected = []
+            for source_id in text_list(spec.get("sources", list(self.source_groups)), "method.sources"):
+                if source_id in self.source_groups:
+                    selected.extend(self.source_groups[source_id])
+                elif source_id in self.sources:
+                    selected.append(source_id)
+                else:
                     raise ValueError(f"Unknown source: {source_id}")
+            for source_id in selected:
                 source = self.sources[source_id]
                 if source.mode == "agent" and any(self.backends[b]["kind"] != "codex" for b in (self.generator, self.reviewer)):
                     raise ValueError("Agent inputs require file-capable generation and review backends")
@@ -132,9 +153,13 @@ class Plan:
                 self.jobs.append({"id": job_id, "method": method, "source_id": source_id, "params": params})
         if not self.jobs:
             raise ValueError("The configuration selects no jobs")
+        if self.job_order == "source":
+            source_order = {key: number for number, key in enumerate(self.sources)}
+            self.jobs.sort(key=lambda job: source_order[job["source_id"]])
         implementation = {str(p.relative_to(Path(__file__).parent)): file_hash(p)
                           for p in sorted(Path(__file__).parent.rglob("*")) if p.suffix in {".py", ".md"}}
-        dependencies = [Path(__file__).parent.parent / "extract_sources.py", *plugin_paths, *self.prompts.values()]
+        dependencies = [Path(__file__).parent.parent / "extract_sources.py", *plugin_paths, *self.prompts.values(),
+                        *sorted(loader.dependencies)]
         implementation.update({str(p): file_hash(p) for p in dependencies})
         identity_config = {**config, "run": {k: v for k, v in config.get("run", {}).items() if k != "output"}}
         self.identity = {"format_version": 1, "config": identity_config, "jobs": self.jobs,
@@ -163,24 +188,32 @@ class Plan:
             return "resumable" if fingerprint == self.fingerprint else "fingerprint_mismatch"
         return "occupied" if any(self.output.iterdir()) else "new"
 
-    def preview(self):
+    def preview(self, *, include_prompts=True):
         result = []
         for job in self.jobs:
             source, module = self.sources[job["source_id"]], self.methods[job["method"]]
-            context = Context(source, None, self.generator, None, self.prompts, job["params"])
-            request = module.preview(source, context, job["params"]) if hasattr(module, "preview") else {
-                "note": "Custom method has no preview(); generate() has not been executed"}
-            result.append({**job, "input_mode": source.mode, "backend": self.generator, "request": request})
+            context = Context(source, None, self.generator, None, self.prompts, job["params"], prompt_seed=self.prompt_seed)
+            if not include_prompts:
+                request = {"note": "Prompt bodies omitted in summary mode"}
+            else:
+                request = module.preview(source, context, job["params"]) if hasattr(module, "preview") else {
+                    "note": "Custom method has no preview(); generate() has not been executed"}
+            result.append({**job, "input_mode": source.mode, "backend": self.generator, "request": request,
+                           "source_characters": len(source.text), "selection": source.provenance.get("selection")})
         known_methods = {"local_proof", "proof_completion", "proof_repair", "reading", "reflection", "exploration"}
         known_budget = all(job["method"] in known_methods for job in self.jobs)
-        overview = {"jobs": len(self.jobs), "candidate_limit": sum(j["params"]["count"] for j in self.jobs),
+        overview = {"jobs": len(self.jobs), "sources": len(self.sources), "source_selection": self.source_selection,
+                    "method_jobs": dict(Counter(j["method"] for j in self.jobs)), "job_order": self.job_order,
+                    "prompt_seed": self.prompt_seed, "candidate_limit": sum(j["params"]["count"] for j in self.jobs),
                     "output_status": self.output_status(),
                     "concurrency": self.concurrency, "generation_backend": self.generator, "review_backend": self.reviewer,
                     "maximum_calls_before_retries": sum(1 + (j["method"] == "proof_repair") + j["params"]["count"]
                                                          for j in self.jobs) if known_budget else None,
                     "backends": {name: {"kind": self.backends[name]["kind"],
                                        "model": self.backends[name].get("model", "inherited"),
-                                       "timeout": self.backends[name].get("timeout", 600 if self.backends[name]["kind"] == "codex" else 120)}
+                                       "timeout": self.backends[name].get("timeout", 600 if self.backends[name]["kind"] == "codex" else 120),
+                                       "thinking": self.backends[name].get("extra", {}).get("thinking"),
+                                       "reasoning_effort": self.backends[name].get("extra", {}).get("reasoning_effort")}
                                  for name in sorted({self.generator, self.reviewer})}}
         return {"fingerprint": self.fingerprint, "output": str(self.output), "overview": overview, "jobs": result}
 
@@ -210,7 +243,8 @@ def process_job(plan, job, backends, *, retry_failed=False):
             print(f"RESUME {job['id']} {record['status']}", flush=True)
             return record
     context = Context(source, backends[plan.generator], plan.generator, folder, plan.prompts,
-                      job["params"], retry_failed=retry_failed, assert_state=plan.assert_implementation_unchanged)
+                      job["params"], retry_failed=retry_failed, assert_state=plan.assert_implementation_unchanged,
+                      prompt_seed=plan.prompt_seed)
     record = {**job, "source": public_source(source), "candidates": []}
     try:
         source.assert_unchanged()
@@ -225,10 +259,12 @@ def process_job(plan, job, backends, *, retry_failed=False):
                          "meta": {"method": job["method"], "params": job["params"], "source": public_source(source),
                                   "evidence": [{k: v for k, v in ref.items() if k != "text"} for ref in evidence],
                                   "run_fingerprint": plan.fingerprint,
-                                  "generation_backend": plan.generator, "review_backend": plan.reviewer}}
+                                  "generation_backend": plan.generator, "review_backend": plan.reviewer,
+                                  "generation_seeds": dict(context.call_seeds)}}
             record["candidates"].append(candidate)
             review_context = Context(source, backends[plan.reviewer], plan.reviewer, folder, plan.prompts,
-                                     job["params"], retry_failed=retry_failed, assert_state=plan.assert_implementation_unchanged)
+                                     job["params"], retry_failed=retry_failed, assert_state=plan.assert_implementation_unchanged,
+                                     prompt_seed=plan.prompt_seed)
             review_prompt = (context.prompt("system") + "\n\n" + context.prompt("review") +
                              "\n\nMETHOD: " + job["method"] + "\nPARAMETERS: " + canonical(job["params"]) +
                              "\n\nSOURCE:\n" + source.context_text() +
@@ -240,12 +276,14 @@ def process_job(plan, job, backends, *, retry_failed=False):
                     raise ValueError("A review needs concrete reasons and an evidence scope")
 
             candidate["review"] = review_context.call(f"review_{index}", review_prompt, REVIEW_SCHEMA, validate_review)
+            candidate["meta"]["review_seed"] = review_context.call_seeds.get(f"review_{index}")
         source.assert_unchanged()
         record["status"] = "completed" if generated["candidates"] else "empty"
         record["empty_reason"] = generated["empty_reason"]
     except Exception as exc:
         record["status"] = "failed"
         record["error"] = {"type": type(exc).__name__, "message": str(exc)}
+    record["generation_seeds"] = dict(context.call_seeds)
     save_json(final, record)
     print(f"DONE {job['id']} {record['status']}", flush=True)
     return record
@@ -276,6 +314,8 @@ def trace_index(output: Path, manifest: dict) -> list[dict]:
                                "started_at_utc": trace.get("started_at_utc"),
                                "finished_at_utc": trace.get("finished_at_utc"),
                                "elapsed_seconds": trace.get("elapsed_seconds"),
+                               "random_seed": request.get("random_seed", trace.get("random_seed")),
+                               "request_signature": request.get("signature", trace.get("signature")),
                                "checkpoint": str(checkpoint_file.relative_to(output)) if checkpointed else None,
                                "files": {p.name: str(p.relative_to(output)) for p in sorted(attempt.iterdir()) if p.is_file()}})
     return traces

@@ -1,0 +1,2885 @@
+{
+  "format_version": 1,
+  "source_revision": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "ordering": "manuscript_id_then_unit_index",
+  "manuscripts": [
+    {
+      "id": "A-C1-Counterexample-to-the-Entropy-Conjecture-September-25-2026",
+      "path": "preprints/A-C1-Counterexample-to-the-Entropy-Conjecture-September-25-2026/build/source/main.tex"
+    },
+    {
+      "id": "A-CH-Obstruction-to-a-Prescribed-Categoricity-Threshold-September-24-2026",
+      "path": "preprints/A-CH-Obstruction-to-a-Prescribed-Categoricity-Threshold-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Capacity-Criterion-for-Four-State-Potts-Reconstruction-on-Trees-October-5-2026",
+      "path": "preprints/A-Capacity-Criterion-for-Four-State-Potts-Reconstruction-on-Trees-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "A-Charged-Reduction-of-the-Spacetime-Penrose-Inequality-in-Spatial-Dimensions-at-Least-Four-October-5-2026",
+      "path": "preprints/A-Charged-Reduction-of-the-Spacetime-Penrose-Inequality-in-Spatial-Dimensions-at-Least-Four-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Codimension-One-Bound-for-the-Singular-Set-of-a-Stationary-Integral-Varifold-October-5-2026",
+      "path": "preprints/A-Codimension-One-Bound-for-the-Singular-Set-of-a-Stationary-Integral-Varifold-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "A-Complete-Local-Domain-Without-a-Small-Cohen-Macaulay-Module-September-23-2026",
+      "path": "preprints/A-Complete-Local-Domain-Without-a-Small-Cohen-Macaulay-Module-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Conditional-Reduction-for-Algebraic-Kuga-Satake-Correspondences-September-10-2026",
+      "path": "preprints/A-Conditional-Reduction-for-Algebraic-Kuga-Satake-Correspondences-September-10-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Coulomb-Ground-State-Density-without-Kohn-Sham-Ensemble-Representation-September-25-2026",
+      "path": "preprints/A-Coulomb-Ground-State-Density-without-Kohn-Sham-Ensemble-Representation-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "A-Counterexample-to-Kaplanskys-Direct-Finiteness-Conjecture-in-Characteristic-Two-September-23-2026",
+      "path": "preprints/A-Counterexample-to-Kaplanskys-Direct-Finiteness-Conjecture-in-Characteristic-Two-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Counterexample-to-Kaplanskys-Direct-Finiteness-Conjecture-in-Odd-Characteristic-September-26-2026",
+      "path": "preprints/A-Counterexample-to-Kaplanskys-Direct-Finiteness-Conjecture-in-Odd-Characteristic-September-26-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Counterexample-to-Kuroshs-Division-Ring-Problem-September-23-2026",
+      "path": "preprints/A-Counterexample-to-Kuroshs-Division-Ring-Problem-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-Counterexample-to-Rysers-Covering-Conjecture-September-23-2026",
+      "path": "preprints/A-Counterexample-to-Rysers-Covering-Conjecture-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Counterexample-to-Walls-D2-Problem-October-6-2026",
+      "path": "preprints/A-Counterexample-to-Walls-D2-Problem-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "A-Counterexample-to-the-Group-Ring-Determinant-Conjecture-September-23-2026",
+      "path": "preprints/A-Counterexample-to-the-Group-Ring-Determinant-Conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-Counterexample-to-the-Infinite-Matroid-Packing-Covering-Conjecture-September-24-2026",
+      "path": "preprints/A-Counterexample-to-the-Infinite-Matroid-Packing-Covering-Conjecture-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Cyclic-Polytabloid-Proof-of-Saxls-Conjecture-September-24-2026",
+      "path": "preprints/A-Cyclic-Polytabloid-Proof-of-Saxls-Conjecture-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Direct-Proof-of-Optimal-Max-Cut-Hardness-September-23-2026",
+      "path": "preprints/A-Direct-Proof-of-Optimal-Max-Cut-Hardness-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-Fixed-Particle-Test-for-Computation-in-a-Forced-Viscous-Flow-September-27-2026",
+      "path": "preprints/A-Fixed-Particle-Test-for-Computation-in-a-Forced-Viscous-Flow-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026",
+      "path": "preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026",
+      "path": "preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-Gepner-stability-condition-on-every-smooth-quintic-threefold-September-24-2026",
+      "path": "preprints/A-Gepner-stability-condition-on-every-smooth-quintic-threefold-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Limiting-Satisfiability-Threshold-for-Every-Fixed-Clause-Size-September-25-2026",
+      "path": "preprints/A-Limiting-Satisfiability-Threshold-for-Every-Fixed-Clause-Size-September-25-2026/build/source/paper.tex"
+    },
+    {
+      "id": "A-Linear-Clock-for-Random-Walk-on-Tree-Weighted-Planar-Maps-October-5-2026",
+      "path": "preprints/A-Linear-Clock-for-Random-Walk-on-Tree-Weighted-Planar-Maps-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Logarithmic-Independence-Bound-for-Clique-Free-Graphs-September-25-2026",
+      "path": "preprints/A-Logarithmic-Independence-Bound-for-Clique-Free-Graphs-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "A-Low-Space-Algorithm-for-Worst-Case-Subset-Sum-September-26-2026",
+      "path": "preprints/A-Low-Space-Algorithm-for-Worst-Case-Subset-Sum-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "A-Modulus-Proof-of-Cannons-Conjecture-September-23-2026",
+      "path": "preprints/A-Modulus-Proof-of-Cannons-Conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-Nearly-Quartic-Separation-Between-Randomized-and-Quantum-Query-Complexity-October-5-2026",
+      "path": "preprints/A-Nearly-Quartic-Separation-Between-Randomized-and-Quantum-Query-Complexity-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "A-Negative-Solution-to-the-Finite-Lattice-Representation-Problem-September-24-2026",
+      "path": "preprints/A-Negative-Solution-to-the-Finite-Lattice-Representation-Problem-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-Nonspectrahedral-Hyperbolicity-Cone-September-24-2026",
+      "path": "preprints/A-Nonspectrahedral-Hyperbolicity-Cone-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-PD4-group-without-an-aspherical-manifold-model-September-24-2026",
+      "path": "preprints/A-PD4-group-without-an-aspherical-manifold-model-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Pivotal-Amplitude-for-Voronoi-Percolation-from-Cardys-Formula-October-5-2026",
+      "path": "preprints/A-Pivotal-Amplitude-for-Voronoi-Percolation-from-Cardys-Formula-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Polynomial-Time-2-Approximation-for-Shortest-Common-Superstring-September-24-2026",
+      "path": "preprints/A-Polynomial-Time-2-Approximation-for-Shortest-Common-Superstring-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Power-Saving-for-Polynomial-Differences-at-Prime-Arguments-October-5-2026",
+      "path": "preprints/A-Power-Saving-for-Polynomial-Differences-at-Prime-Arguments-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "A-Sharp-Threshold-Bound-for-Monotone-Graph-Properties-September-25-2026",
+      "path": "preprints/A-Sharp-Threshold-Bound-for-Monotone-Graph-Properties-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026",
+      "path": "preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-Three-Dimensional-Counterexample-to-Integer-Degree-Harmonic-Dimension-Comparison-September-26-2026",
+      "path": "preprints/A-Three-Dimensional-Counterexample-to-Integer-Degree-Harmonic-Dimension-Comparison-September-26-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Three-Manifold-Without-Conjugate-Points-and-Without-a-Nonpositively-Curved-Metric-September-24-2026",
+      "path": "preprints/A-Three-Manifold-Without-Conjugate-Points-and-Without-a-Nonpositively-Curved-Metric-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-Torsion-Free-Counterexample-to-Reduced-Baum-Connes-Injectivity-September-23-2026",
+      "path": "preprints/A-Torsion-Free-Counterexample-to-Reduced-Baum-Connes-Injectivity-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-Torsion-Free-Counterexample-to-the-Kadison-Kaplansky-Projection-Conjecture-September-23-2026",
+      "path": "preprints/A-Torsion-Free-Counterexample-to-the-Kadison-Kaplansky-Projection-Conjecture-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Torsion-Free-Group-Algebra-That-Is-Not-Directly-Finite-October-4-2026",
+      "path": "preprints/A-Torsion-Free-Group-Algebra-That-Is-Not-Directly-Finite-October-4-2026/build/paper.tex"
+    },
+    {
+      "id": "A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026",
+      "path": "preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "A-boundary-field-gap-for-the-spin-one-Heisenberg-chain-September-24-2026",
+      "path": "preprints/A-boundary-field-gap-for-the-spin-one-Heisenberg-chain-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-boundary-only-obstruction-to-four-dimensional-disk-embedding-September-24-2026",
+      "path": "preprints/A-boundary-only-obstruction-to-four-dimensional-disk-embedding-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-classification-of-finite-Euclidean-Ramsey-configurations-September-23-2026",
+      "path": "preprints/A-classification-of-finite-Euclidean-Ramsey-configurations-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-closed-Ricci-flow-with-bounded-scalar-curvature-and-finite-time-curvature-blowup-September-24-2026",
+      "path": "preprints/A-closed-Ricci-flow-with-bounded-scalar-curvature-and-finite-time-curvature-blowup-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-conditional-abelianity-theorem-for-special-fourfold-pairs-with-a-half-weight-divisor-October-5-2026",
+      "path": "preprints/A-conditional-abelianity-theorem-for-special-fourfold-pairs-with-a-half-weight-divisor-October-5-2026/build/source/main.tex"
+    },
+    {
+      "id": "A-continuum-temperature-singularity-for-a-radial-pair-potential-September-24-2026",
+      "path": "preprints/A-continuum-temperature-singularity-for-a-radial-pair-potential-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-counterexample-to-Hadwigers-conjecture-September-23-2026",
+      "path": "preprints/A-counterexample-to-Hadwigers-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026",
+      "path": "preprints/A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "A-counterexample-to-Naimarks-problem-in-ZFC-September-24-2026",
+      "path": "preprints/A-counterexample-to-Naimarks-problem-in-ZFC-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-counterexample-to-Sidorenkos-conjecture-September-23-2026",
+      "path": "preprints/A-counterexample-to-Sidorenkos-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-counterexample-to-Tachikawas-second-conjecture-September-23-2026",
+      "path": "preprints/A-counterexample-to-Tachikawas-second-conjecture-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "A-counterexample-to-integer-degree-harmonic-dimension-comparison-September-25-2026",
+      "path": "preprints/A-counterexample-to-integer-degree-harmonic-dimension-comparison-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "A-counterexample-to-the-Colin-de-Verdiere-chromatic-conjecture-September-23-2026",
+      "path": "preprints/A-counterexample-to-the-Colin-de-Verdiere-chromatic-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-counterexample-to-the-Monge-ansatz-for-the-three-marginal-Coulomb-cost-September-25-2026",
+      "path": "preprints/A-counterexample-to-the-Monge-ansatz-for-the-three-marginal-Coulomb-cost-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "A-counterexample-to-the-coarse-Novikov-conjecture-September-23-2026",
+      "path": "preprints/A-counterexample-to-the-coarse-Novikov-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-counterexample-to-the-nearby-Lagrangian-conjecture-September-23-2026",
+      "path": "preprints/A-counterexample-to-the-nearby-Lagrangian-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-cubic-lower-bound-for-border-determinantal-complexity-of-the-permanent-September-24-2026",
+      "path": "preprints/A-cubic-lower-bound-for-border-determinantal-complexity-of-the-permanent-September-24-2026/build/source/main.tex"
+    },
+    {
+      "id": "A-degenerate-counterexample-to-the-critical-number-Arnold-bound-September-23-2026",
+      "path": "preprints/A-degenerate-counterexample-to-the-critical-number-Arnold-bound-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-density-uniform-condensate-bound-for-dilute-Bose-gases-September-27-2026",
+      "path": "preprints/A-density-uniform-condensate-bound-for-dilute-Bose-gases-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "A-dimension-free-logarithmic-Sobolev-inequality-for-subgaussian-log-concave-measures-September-23-2026",
+      "path": "preprints/A-dimension-free-logarithmic-Sobolev-inequality-for-subgaussian-log-concave-measures-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-direct-proof-of-the-complete-Crouzeix-inequality-September-26-2026",
+      "path": "preprints/A-direct-proof-of-the-complete-Crouzeix-inequality-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "A-directional-zero-one-law-for-finite-range-dependent-random-environments-October-5-2026",
+      "path": "preprints/A-directional-zero-one-law-for-finite-range-dependent-random-environments-October-5-2026/build/manuscript/main.tex"
+    },
+    {
+      "id": "A-directional-zero-one-law-under-strict-ellipticity-September-23-2026",
+      "path": "preprints/A-directional-zero-one-law-under-strict-ellipticity-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-doubling-Hilbert-subset-with-no-finite-dimensional-bi-Lipschitz-embedding-September-25-2026",
+      "path": "preprints/A-doubling-Hilbert-subset-with-no-finite-dimensional-bi-Lipschitz-embedding-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "A-finite-Smith-Toda-complex-V4-at-the-prime-1009-September-23-2026",
+      "path": "preprints/A-finite-Smith-Toda-complex-V4-at-the-prime-1009-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-finite-entropy-separation-of-microstates-and-nonmicrostates-free-entropy-September-25-2026",
+      "path": "preprints/A-finite-entropy-separation-of-microstates-and-nonmicrostates-free-entropy-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "A-finite-entropy-system-without-a-smooth-positive-volume-model-September-25-2026",
+      "path": "preprints/A-finite-entropy-system-without-a-smooth-positive-volume-model-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "A-finite-time-singularity-of-Calabi-flow-on-projective-space-September-24-2026",
+      "path": "preprints/A-finite-time-singularity-of-Calabi-flow-on-projective-space-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-finitely-generated-counterexample-to-the-Eilenberg-Ganea-conjecture-September-23-2026",
+      "path": "preprints/A-finitely-generated-counterexample-to-the-Eilenberg-Ganea-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-group-without-fixed-price-October-5-2026",
+      "path": "preprints/A-group-without-fixed-price-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026",
+      "path": "preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-hyperbolic-group-with-no-geometric-CAT0-action-September-25-2026",
+      "path": "preprints/A-hyperbolic-group-with-no-geometric-CAT0-action-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "A-latest-anchor-induction-with-spectrally-compact-masks-for-worst-case-trace-reconstruction-October-5-2026",
+      "path": "preprints/A-latest-anchor-induction-with-spectrally-compact-masks-for-worst-case-trace-reconstruction-October-5-2026/build/part-1.tex"
+    },
+    {
+      "id": "A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026",
+      "path": "preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-linear-list-coloring-bound-in-terms-of-the-Hadwiger-number-September-23-2026",
+      "path": "preprints/A-linear-list-coloring-bound-in-terms-of-the-Hadwiger-number-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-local-Penrose-inequality-for-conformal-perturbations-of-Schwarzschild-anti-de-Sitter-data-October-5-2026",
+      "path": "preprints/A-local-Penrose-inequality-for-conformal-perturbations-of-Schwarzschild-anti-de-Sitter-data-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "A-marked-tensor-obstruction-to-four-dimensional-disk-embedding-September-24-2026",
+      "path": "preprints/A-marked-tensor-obstruction-to-four-dimensional-disk-embedding-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-negatively-pinched-Kahler-threefold-without-bounded-holomorphic-coordinates-September-25-2026",
+      "path": "preprints/A-negatively-pinched-Kahler-threefold-without-bounded-holomorphic-coordinates-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "A-nine-dimensional-counterexample-to-Borsuks-covering-assertion-September-23-2026",
+      "path": "preprints/A-nine-dimensional-counterexample-to-Borsuks-covering-assertion-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-nondegenerate-counterexample-to-the-Morse-number-Arnold-bound-September-23-2026",
+      "path": "preprints/A-nondegenerate-counterexample-to-the-Morse-number-Arnold-bound-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-pointwise-2-converse-for-elliptic-curves-with-rational-two-torsion-October-7-2026",
+      "path": "preprints/A-pointwise-2-converse-for-elliptic-curves-with-rational-two-torsion-October-7-2026/build/paper.tex"
+    },
+    {
+      "id": "A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026",
+      "path": "preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-polynomial-time-construction-of-strong-thin-trees-September-23-2026",
+      "path": "preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/main.tex"
+    },
+    {
+      "id": "A-positive-solution-to-Tingleys-problem-September-23-2026",
+      "path": "preprints/A-positive-solution-to-Tingleys-problem-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-power-improvement-in-the-Heilbronn-triangle-lower-bound-September-25-2026",
+      "path": "preprints/A-power-improvement-in-the-Heilbronn-triangle-lower-bound-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "A-power-saving-for-intersective-polynomial-differences-with-an-exponent-depending-only-on-the-degree-October-5-2026",
+      "path": "preprints/A-power-saving-for-intersective-polynomial-differences-with-an-exponent-depending-only-on-the-degree-October-5-2026/build/manuscript/main.tex"
+    },
+    {
+      "id": "A-power-saving-for-planar-halving-lines-September-25-2026",
+      "path": "preprints/A-power-saving-for-planar-halving-lines-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "A-power-saving-for-planar-unit-distances-September-23-2026",
+      "path": "preprints/A-power-saving-for-planar-unit-distances-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-power-saving-for-square-difference-free-sets-September-24-2026",
+      "path": "preprints/A-power-saving-for-square-difference-free-sets-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026",
+      "path": "preprints/A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-projective-fourfold-with-large-fundamental-group-and-non-Stein-universal-cover-October-5-2026",
+      "path": "preprints/A-projective-fourfold-with-large-fundamental-group-and-non-Stein-universal-cover-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "A-proof-of-Seymours-second-neighborhood-conjecture-September-23-2026",
+      "path": "preprints/A-proof-of-Seymours-second-neighborhood-conjecture-September-23-2026/build/source/main.tex"
+    },
+    {
+      "id": "A-quadratic-bound-for-Jacobsthals-function-September-25-2026",
+      "path": "preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "A-radial-continuum-phase-transition-with-algebraic-decay-September-24-2026",
+      "path": "preprints/A-radial-continuum-phase-transition-with-algebraic-decay-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-rational-obstruction-to-strong-chromatic-splitting-at-height-three-September-25-2026",
+      "path": "preprints/A-rational-obstruction-to-strong-chromatic-splitting-at-height-three-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "A-sharp-Fourier-certificate-for-planar-circle-packing-September-23-2026",
+      "path": "preprints/A-sharp-Fourier-certificate-for-planar-circle-packing-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-sharp-entropy-bound-and-the-simplex-inequality-for-isotropic-constants-October-5-2026",
+      "path": "preprints/A-sharp-entropy-bound-and-the-simplex-inequality-for-isotropic-constants-October-5-2026/build/manuscript/main.tex"
+    },
+    {
+      "id": "A-single-lattice-covering-bound-of-order-n-log-n-September-23-2026",
+      "path": "preprints/A-single-lattice-covering-bound-of-order-n-log-n-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-singular-normal-affine-surface-with-free-tangent-sheaf-September-23-2026",
+      "path": "preprints/A-singular-normal-affine-surface-with-free-tangent-sheaf-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "A-smooth-three-torus-diffeomorphism-with-simple-Lebesgue-spectrum-September-23-2026",
+      "path": "preprints/A-smooth-three-torus-diffeomorphism-with-simple-Lebesgue-spectrum-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-spectral-gap-throughout-the-high-temperature-Sherrington-Kirkpatrick-phase-September-24-2026",
+      "path": "preprints/A-spectral-gap-throughout-the-high-temperature-Sherrington-Kirkpatrick-phase-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-stable-coordinate-that-is-not-a-coordinate-in-four-variables-October-5-2026",
+      "path": "preprints/A-stable-coordinate-that-is-not-a-coordinate-in-four-variables-October-5-2026/build/source/main.tex"
+    },
+    {
+      "id": "A-strict-four-row-permanent-inequality-and-permutation-moments-September-26-2026",
+      "path": "preprints/A-strict-four-row-permanent-inequality-and-permutation-moments-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "A-strict-inverse-first-power-bound-for-univalent-functions-September-24-2026",
+      "path": "preprints/A-strict-inverse-first-power-bound-for-univalent-functions-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-superquadratic-separation-between-sensitivity-and-block-sensitivity-September-25-2026",
+      "path": "preprints/A-superquadratic-separation-between-sensitivity-and-block-sensitivity-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "A-surface-counterexample-to-Shafarevich-holomorphic-convexity-September-23-2026",
+      "path": "preprints/A-surface-counterexample-to-Shafarevich-holomorphic-convexity-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026",
+      "path": "preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "A-two-dimensional-area-law-from-a-global-spectral-gap-September-24-2026",
+      "path": "preprints/A-two-dimensional-area-law-from-a-global-spectral-gap-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "A-typical-start-upper-bound-for-low-temperature-SK-Glauber-dynamics-September-24-2026",
+      "path": "preprints/A-typical-start-upper-bound-for-low-temperature-SK-Glauber-dynamics-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "A-uniform-Hilbert-transform-estimate-for-Lipschitz-directions-September-25-2026",
+      "path": "preprints/A-uniform-Hilbert-transform-estimate-for-Lipschitz-directions-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "A-uniform-influence-bound-for-hypergraph-properties-October-5-2026",
+      "path": "preprints/A-uniform-influence-bound-for-hypergraph-properties-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "A-universal-group-of-type-F-infinity-September-23-2026",
+      "path": "preprints/A-universal-group-of-type-F-infinity-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Abelian-covers-Gale-correspondences-and-the-Hodge-conjecture-for-powers-October-6-2026",
+      "path": "preprints/Abelian-covers-Gale-correspondences-and-the-Hodge-conjecture-for-powers-October-6-2026/build/paper.tex"
+    },
+    {
+      "id": "Absolutely-Continuous-Spectrum-for-Weak-Disorder-Anderson-Models-in-Dimensions-at-Least-Three-September-23-2026",
+      "path": "preprints/Absolutely-Continuous-Spectrum-for-Weak-Disorder-Anderson-Models-in-Dimensions-at-Least-Three-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Abundance-after-nonvanishing-for-compact-Kahler-fourfolds-September-27-2026",
+      "path": "preprints/Abundance-after-nonvanishing-for-compact-Kahler-fourfolds-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Abundance-in-numerical-dimension-one-for-terminal-threefolds-in-positive-characteristic-September-24-2026",
+      "path": "preprints/Abundance-in-numerical-dimension-one-for-terminal-threefolds-in-positive-characteristic-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Additive-hardness-and-unbounded-configuration-gaps-in-bin-packing-September-24-2026",
+      "path": "preprints/Additive-hardness-and-unbounded-configuration-gaps-in-bin-packing-September-24-2026/build/source/main.tex"
+    },
+    {
+      "id": "Algebraic-Kuga-Satake-correspondences-and-Hodge-conjectures-on-a-K3-quadratic-locus-September-30-2026",
+      "path": "preprints/Algebraic-Kuga-Satake-correspondences-and-Hodge-conjectures-on-a-K3-quadratic-locus-September-30-2026/build/paper.tex"
+    },
+    {
+      "id": "All-temperature-pressure-for-orthogonally-invariant-Ising-spin-glasses-September-25-2026",
+      "path": "preprints/All-temperature-pressure-for-orthogonally-invariant-Ising-spin-glasses-September-25-2026/build/invariant-sk.tex"
+    },
+    {
+      "id": "Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026",
+      "path": "preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Almost-everywhere-Fourier-convergence-in-L-log-L-September-23-2026",
+      "path": "preprints/Almost-everywhere-Fourier-convergence-in-L-log-L-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Almost-everywhere-regularity-of-stationary-integral-varifolds-September-23-2026",
+      "path": "preprints/Almost-everywhere-regularity-of-stationary-integral-varifolds-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026",
+      "path": "preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex"
+    },
+    {
+      "id": "Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026",
+      "path": "preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "An-Almost-Linear-Approximation-Scheme-for-Edit-Distance-September-24-2026",
+      "path": "preprints/An-Almost-Linear-Approximation-Scheme-for-Edit-Distance-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "An-Artin-group-with-no-geometric-CAT-0-action-September-23-2026",
+      "path": "preprints/An-Artin-group-with-no-geometric-CAT-0-action-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026",
+      "path": "preprints/An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "An-Exact-Semidefinite-Lift-of-a-Nonspectrahedral-Hyperbolicity-Cone-October-5-2026",
+      "path": "preprints/An-Exact-Semidefinite-Lift-of-a-Nonspectrahedral-Hyperbolicity-Cone-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "An-FPRAS-for-Cell-Bounded-Contingency-Tables-September-24-2026",
+      "path": "preprints/An-FPRAS-for-Cell-Bounded-Contingency-Tables-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026",
+      "path": "preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "An-Infinite-Finitely-Presented-Simple-Amenable-Group-September-23-2026",
+      "path": "preprints/An-Infinite-Finitely-Presented-Simple-Amenable-Group-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "An-Integral-Counterexample-to-Gerstens-Conjecture-September-25-2026",
+      "path": "preprints/An-Integral-Counterexample-to-Gerstens-Conjecture-September-25-2026/build/source/main.tex"
+    },
+    {
+      "id": "An-Integral-Degree-Three-Gersten-Counterexample-September-26-2026",
+      "path": "preprints/An-Integral-Degree-Three-Gersten-Counterexample-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "An-Irrational-Trace-Counterexample-to-Reduced-Baum-Connes-September-23-2026",
+      "path": "preprints/An-Irrational-Trace-Counterexample-to-Reduced-Baum-Connes-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "An-Isolated-Particle-Pole-for-the-Two-Dimensional-O3-Spin-Field-October-4-2026",
+      "path": "preprints/An-Isolated-Particle-Pole-for-the-Two-Dimensional-O3-Spin-Field-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "An-L2-Einstein-Gap-for-Nonnegatively-Curved-Four-Manifolds-October-5-2026",
+      "path": "preprints/An-L2-Einstein-Gap-for-Nonnegatively-Curved-Four-Manifolds-October-5-2026/build/source/main.tex"
+    },
+    {
+      "id": "An-L3-bound-for-the-dyadic-triangular-Hilbert-form-October-5-2026",
+      "path": "preprints/An-L3-bound-for-the-dyadic-triangular-Hilbert-form-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "An-L3-bound-for-the-trilinear-Hilbert-transform-October-5-2026",
+      "path": "preprints/An-L3-bound-for-the-trilinear-Hilbert-transform-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "An-algebra-of-infinite-little-finitistic-dimension-September-23-2026",
+      "path": "preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "An-asymptotic-formula-for-the-number-of-totients-September-25-2026",
+      "path": "preprints/An-asymptotic-formula-for-the-number-of-totients-September-25-2026/build/source/main.tex"
+    },
+    {
+      "id": "An-atomic-certificate-for-triangular-lattice-universal-optimality-September-26-2026",
+      "path": "preprints/An-atomic-certificate-for-triangular-lattice-universal-optimality-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "An-exact-Hausdorff-gauge-for-SLE-September-25-2026",
+      "path": "preprints/An-exact-Hausdorff-gauge-for-SLE-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "An-explicit-counterexample-to-the-Auslander-Reiten-conjecture-September-23-2026",
+      "path": "preprints/An-explicit-counterexample-to-the-Auslander-Reiten-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "An-explicit-exact-Hausdorff-gauge-for-SLE-September-26-2026",
+      "path": "preprints/An-explicit-exact-Hausdorff-gauge-for-SLE-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026",
+      "path": "preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "An-explicit-noncoordinate-polynomial-with-affine-three-space-zero-fibre-September-24-2026",
+      "path": "preprints/An-explicit-noncoordinate-polynomial-with-affine-three-space-zero-fibre-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "An-explicit-obstruction-to-nuclear-norm-ultrapower-embeddings-September-23-2026",
+      "path": "preprints/An-explicit-obstruction-to-nuclear-norm-ultrapower-embeddings-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "An-explicit-power-saving-for-the-exact-discrete-Fourier-transform-September-25-2026",
+      "path": "preprints/An-explicit-power-saving-for-the-exact-discrete-Fourier-transform-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "An-exponential-state-lower-bound-for-two-way-nondeterministic-complementation-September-25-2026",
+      "path": "preprints/An-exponential-state-lower-bound-for-two-way-nondeterministic-complementation-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "An-exponential-two-way-deterministic-state-lower-bound-for-one-way-liveness-September-25-2026",
+      "path": "preprints/An-exponential-two-way-deterministic-state-lower-bound-for-one-way-liveness-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "An-infinite-finitely-presented-periodic-group-September-23-2026",
+      "path": "preprints/An-infinite-finitely-presented-periodic-group-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "An-infinite-finitely-presented-residually-finite-2-group-October-5-2026",
+      "path": "preprints/An-infinite-finitely-presented-residually-finite-2-group-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026",
+      "path": "preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "An-isomorphism-of-the-free-group-factors-September-23-2026",
+      "path": "preprints/An-isomorphism-of-the-free-group-factors-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "An-unconditional-first-moment-for-cubic-Gauss-sums-September-25-2026",
+      "path": "preprints/An-unconditional-first-moment-for-cubic-Gauss-sums-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Annular-variation-of-the-triangular-Hilbert-transform-at-the-symmetric-point-October-5-2026",
+      "path": "preprints/Annular-variation-of-the-triangular-Hilbert-transform-at-the-symmetric-point-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Anticanonical-nonvanishing-from-smooth-semipositivity-September-26-2026",
+      "path": "preprints/Anticanonical-nonvanishing-from-smooth-semipositivity-September-26-2026/build/source/main.tex"
+    },
+    {
+      "id": "Approximate-counting-of-common-bases-of-two-matroids-September-23-2026",
+      "path": "preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026",
+      "path": "preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex"
+    },
+    {
+      "id": "Area-controlled-end-replacement-and-the-Bondi-Penrose-inequality-in-the-CKS-class-September-27-2026",
+      "path": "preprints/Area-controlled-end-replacement-and-the-Bondi-Penrose-inequality-in-the-CKS-class-September-27-2026/build/paper.tex"
+    },
+    {
+      "id": "Arithmetic-Stein-degree-bounds-for-log-Calabi-Yau-pairs-September-25-2026",
+      "path": "preprints/Arithmetic-Stein-degree-bounds-for-log-Calabi-Yau-pairs-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026",
+      "path": "preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/main.tex"
+    },
+    {
+      "id": "Arithmeticity-of-twisted-finite-correspondences-for-lattices-over-local-fields-September-23-2026",
+      "path": "preprints/Arithmeticity-of-twisted-finite-correspondences-for-lattices-over-local-fields-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Asymptotic-midpoint-uniform-convexity-and-unbounded-diamond-distortion-in-a-reflexive-tree-space-September-27-2026",
+      "path": "preprints/Asymptotic-midpoint-uniform-convexity-and-unbounded-diamond-distortion-in-a-reflexive-tree-space-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026",
+      "path": "preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Average-Sensitivity-of-Polynomial-Threshold-Functions-September-25-2026",
+      "path": "preprints/Average-Sensitivity-of-Polynomial-Threshold-Functions-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "B-semiampleness-for-compact-log-smooth-Kahler-fibrations-September-10-2026",
+      "path": "preprints/B-semiampleness-for-compact-log-smooth-Kahler-fibrations-September-10-2026/build/paper.tex"
+    },
+    {
+      "id": "BKT-universality-for-height-and-planar-spin-fields-September-24-2026",
+      "path": "preprints/BKT-universality-for-height-and-planar-spin-fields-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Backward-intertwiners-and-a-transitive-commutant-September-27-2026",
+      "path": "preprints/Backward-intertwiners-and-a-transitive-commutant-September-27-2026/build/paper.tex"
+    },
+    {
+      "id": "Balanced-Counterexamples-to-Rysers-Conjecture-at-Prime-Orders-September-27-2026",
+      "path": "preprints/Balanced-Counterexamples-to-Rysers-Conjecture-at-Prime-Orders-September-27-2026/build/paper.tex"
+    },
+    {
+      "id": "Baumslag-Solitar-free-one-relator-groups-are-hyperbolic-September-25-2026",
+      "path": "preprints/Baumslag-Solitar-free-one-relator-groups-are-hyperbolic-September-25-2026/build/source/paper.tex"
+    },
+    {
+      "id": "Beyond-the-Square-Root-Exponent-for-Depth-Three-Boolean-Circuits-September-23-2026",
+      "path": "preprints/Beyond-the-Square-Root-Exponent-for-Depth-Three-Boolean-Circuits-September-23-2026/build/latex/main.tex"
+    },
+    {
+      "id": "Bi-Lipschitz-Absorption-of-c0-Without-a-Linear-Copy-of-c0-September-26-2026",
+      "path": "preprints/Bi-Lipschitz-Absorption-of-c0-Without-a-Linear-Copy-of-c0-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Bi-Lipschitz-Coordinates-at-Regular-Points-of-Noncollapsed-RCD-Spaces-September-25-2026",
+      "path": "preprints/Bi-Lipschitz-Coordinates-at-Regular-Points-of-Noncollapsed-RCD-Spaces-September-25-2026/build/source/paper.tex"
+    },
+    {
+      "id": "Blochs-Conjecture-for-Surfaces-with-pg-equals-q-equals-0-September-24-2026",
+      "path": "preprints/Blochs-Conjecture-for-Surfaces-with-pg-equals-q-equals-0-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026",
+      "path": "preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Bochner-Riesz-Multipliers-in-Three-Dimensions-September-24-2026",
+      "path": "preprints/Bochner-Riesz-Multipliers-in-Three-Dimensions-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Bose-Einstein-condensation-at-positive-temperature-in-the-dilute-hard-sphere-gas-October-5-2026",
+      "path": "preprints/Bose-Einstein-condensation-at-positive-temperature-in-the-dilute-hard-sphere-gas-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Boundary-graph-deformations-for-the-spacetime-Penrose-inequality-September-27-2026",
+      "path": "preprints/Boundary-graph-deformations-for-the-spacetime-Penrose-inequality-September-27-2026/build/paper.tex"
+    },
+    {
+      "id": "Bounded-Step-Walks-on-Gaussian-Primes-September-26-2026",
+      "path": "preprints/Bounded-Step-Walks-on-Gaussian-Primes-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Bounded-anticanonical-metrics-on-klt-pairs-and-torus-quotients-September-26-2026",
+      "path": "preprints/Bounded-anticanonical-metrics-on-klt-pairs-and-torus-quotients-September-26-2026/build/source/main.tex"
+    },
+    {
+      "id": "Bounded-degree-coboundary-expanders-in-every-dimension-September-24-2026",
+      "path": "preprints/Bounded-degree-coboundary-expanders-in-every-dimension-September-24-2026/build/source/main.tex"
+    },
+    {
+      "id": "Bounded-klt-complements-for-Fano-contractions-September-25-2026",
+      "path": "preprints/Bounded-klt-complements-for-Fano-contractions-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Bounded-recovery-for-modular-spectral-averages-September-23-2026",
+      "path": "preprints/Bounded-recovery-for-modular-spectral-averages-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Bounded-scalar-curvature-and-smooth-extension-of-four-dimensional-Ricci-flow-September-24-2026",
+      "path": "preprints/Bounded-scalar-curvature-and-smooth-extension-of-four-dimensional-Ricci-flow-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Boundedness-and-persistence-of-weakly-reversible-mass-action-systems-September-25-2026",
+      "path": "preprints/Boundedness-and-persistence-of-weakly-reversible-mass-action-systems-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Brennans-conjecture-and-sharp-inverse-square-integral-means-September-24-2026",
+      "path": "preprints/Brennans-conjecture-and-sharp-inverse-square-integral-means-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Brownian-continuum-random-tree-limits-of-finite-Fortuin-Kasteleyn-maps-above-four-September-24-2026",
+      "path": "preprints/Brownian-continuum-random-tree-limits-of-finite-Fortuin-Kasteleyn-maps-above-four-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Buffered-comparison-and-stopping-band-resolution-in-critical-Ising-September-23-2026",
+      "path": "preprints/Buffered-comparison-and-stopping-band-resolution-in-critical-Ising-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Canonical-ampleness-of-compact-hyperbolic-Kahler-manifolds-September-23-2026",
+      "path": "preprints/Canonical-ampleness-of-compact-hyperbolic-Kahler-manifolds-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Canonical-conformal-limits-of-subcritical-FK-planar-maps-September-24-2026",
+      "path": "preprints/Canonical-conformal-limits-of-subcritical-FK-planar-maps-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Cap-selected-amplitudes-and-triangle-chords-for-honeycomb-walks-September-26-2026",
+      "path": "preprints/Cap-selected-amplitudes-and-triangle-chords-for-honeycomb-walks-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Cardys-formula-for-critical-Poisson-Voronoi-percolation-September-23-2026",
+      "path": "preprints/Cardys-formula-for-critical-Poisson-Voronoi-percolation-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Catalans-constant-is-irrational-September-24-2026",
+      "path": "preprints/Catalans-constant-is-irrational-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026",
+      "path": "preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026",
+      "path": "preprints/Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Close-Separable-Cstar-Algebras-Without-Spatial-Conjugacy-October-5-2026",
+      "path": "preprints/Close-Separable-Cstar-Algebras-Without-Spatial-Conjugacy-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Cohomological-transfer-and-equivariant-anticanonical-sections-September-26-2026",
+      "path": "preprints/Cohomological-transfer-and-equivariant-anticanonical-sections-September-26-2026/build/source/main.tex"
+    },
+    {
+      "id": "Combinatorial-Invariance-of-Kazhdan-Lusztig-Polynomials-September-24-2026",
+      "path": "preprints/Combinatorial-Invariance-of-Kazhdan-Lusztig-Polynomials-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Commuting-Division-Coefficient-Forms-and-the-Artinian-Eisenbud-Green-Harris-Conjecture-September-23-2026",
+      "path": "preprints/Commuting-Division-Coefficient-Forms-and-the-Artinian-Eisenbud-Green-Harris-Conjecture-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Compatibility-entropy-and-the-spectrum-of-a-Thorp-sweep-September-26-2026",
+      "path": "preprints/Compatibility-entropy-and-the-spectrum-of-a-Thorp-sweep-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Complex-Matrix-Multiplication-Below-2.258-and-Rectangular-Bounds-September-24-2026",
+      "path": "preprints/Complex-Matrix-Multiplication-Below-2.258-and-Rectangular-Bounds-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Computation-under-Rapidly-Vanishing-Navier-Stokes-Forcing-September-27-2026",
+      "path": "preprints/Computation-under-Rapidly-Vanishing-Navier-Stokes-Forcing-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Computing-the-Random-3-SAT-Threshold-September-27-2026",
+      "path": "preprints/Computing-the-Random-3-SAT-Threshold-September-27-2026/build/paper.tex"
+    },
+    {
+      "id": "Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026",
+      "path": "preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-6-2026",
+      "path": "preprints/Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026",
+      "path": "preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Conditional-permutations-in-a-revealed-switching-environment-September-26-2026",
+      "path": "preprints/Conditional-permutations-in-a-revealed-switching-environment-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Conformal-Limits-of-Critical-Square-Lattice-Random-Cluster-Interfaces-October-5-2026",
+      "path": "preprints/Conformal-Limits-of-Critical-Square-Lattice-Random-Cluster-Interfaces-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Conformal-flow-and-the-Riemannian-Penrose-inequality-with-minimizing-frontiers-September-27-2026",
+      "path": "preprints/Conformal-flow-and-the-Riemannian-Penrose-inequality-with-minimizing-frontiers-September-27-2026/build/paper.tex"
+    },
+    {
+      "id": "Conformal-universality-of-bulk-Ising-correlations-under-weak-interactions-September-23-2026",
+      "path": "preprints/Conformal-universality-of-bulk-Ising-correlations-under-weak-interactions-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Constant-factor-hardness-of-Min-UnCut-September-23-2026",
+      "path": "preprints/Constant-factor-hardness-of-Min-UnCut-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Constant-factor-hardness-of-directed-feedback-vertex-set-September-23-2026",
+      "path": "preprints/Constant-factor-hardness-of-directed-feedback-vertex-set-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Constant-factor-hardness-of-uniform-sparsest-cut-September-24-2026",
+      "path": "preprints/Constant-factor-hardness-of-uniform-sparsest-cut-September-24-2026/build/source/main.tex"
+    },
+    {
+      "id": "Constructible-tame-Hecke-eigensheaves-in-positive-characteristic-October-5-2026",
+      "path": "preprints/Constructible-tame-Hecke-eigensheaves-in-positive-characteristic-October-5-2026/build/manuscript/main.tex"
+    },
+    {
+      "id": "Contact-Fano-manifolds-and-the-LeBrun-Salamon-conjecture-September-23-2026",
+      "path": "preprints/Contact-Fano-manifolds-and-the-LeBrun-Salamon-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Continuous-Phase-Foliations-Create-Analytic-Caustic-Collars-September-24-2026",
+      "path": "preprints/Continuous-Phase-Foliations-Create-Analytic-Caustic-Collars-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Continuum-Coulomb-hardness-with-binary-nuclear-charges-September-24-2026",
+      "path": "preprints/Continuum-Coulomb-hardness-with-binary-nuclear-charges-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Correspondence-Coloring-Graphs-with-a-Forbidden-Clique-October-5-2026",
+      "path": "preprints/Correspondence-Coloring-Graphs-with-a-Forbidden-Clique-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Counterexamples-to-the-Hahn-Wilson-conjecture-at-height-two-September-26-2026",
+      "path": "preprints/Counterexamples-to-the-Hahn-Wilson-conjecture-at-height-two-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Counterexamples-to-the-duality-conjecture-for-metric-entropy-September-24-2026",
+      "path": "preprints/Counterexamples-to-the-duality-conjecture-for-metric-entropy-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Counterexamples-to-weak-chromatic-splitting-sphere-kernels-and-descent-exponents-September-27-2026",
+      "path": "preprints/Counterexamples-to-weak-chromatic-splitting-sphere-kernels-and-descent-exponents-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Critical-Center-Magnetization-in-the-Planar-XY-Model-October-5-2026",
+      "path": "preprints/Critical-Center-Magnetization-in-the-Planar-XY-Model-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Critical-bond-and-site-percolation-on-the-cubic-lattice-September-24-2026",
+      "path": "preprints/Critical-bond-and-site-percolation-on-the-cubic-lattice-September-24-2026/build/critical-percolation-z3.tex"
+    },
+    {
+      "id": "Critical-honeycomb-chords-with-prescribed-boundary-endpoints-September-26-2026",
+      "path": "preprints/Critical-honeycomb-chords-with-prescribed-boundary-endpoints-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Critical-local-smoothing-for-the-three-dimensional-wave-equation-September-24-2026",
+      "path": "preprints/Critical-local-smoothing-for-the-three-dimensional-wave-equation-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Critical-mixing-in-the-Sherrington-Kirkpatrick-model-September-25-2026",
+      "path": "preprints/Critical-mixing-in-the-Sherrington-Kirkpatrick-model-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Critical-slowing-down-in-the-Sherrington-Kirkpatrick-model-September-24-2026",
+      "path": "preprints/Critical-slowing-down-in-the-Sherrington-Kirkpatrick-model-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Critical-strip-crossing-mass-on-the-honeycomb-lattice-September-26-2026",
+      "path": "preprints/Critical-strip-crossing-mass-on-the-honeycomb-lattice-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Cuntz-comparison-and-Jiang-Su-absorption-September-23-2026",
+      "path": "preprints/Cuntz-comparison-and-Jiang-Su-absorption-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Cutoff-throughout-the-high-temperature-Sherrington-Kirkpatrick-phase-September-24-2026",
+      "path": "preprints/Cutoff-throughout-the-high-temperature-Sherrington-Kirkpatrick-phase-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Cycle-clique-Ramsey-numbers-September-25-2026",
+      "path": "preprints/Cycle-clique-Ramsey-numbers-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026",
+      "path": "preprints/Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Cylinder-amplitudes-and-logarithmic-bridge-length-windows-on-the-honeycomb-lattice-September-26-2026",
+      "path": "preprints/Cylinder-amplitudes-and-logarithmic-bridge-length-windows-on-the-honeycomb-lattice-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Cylinder-loop-weights-and-planar-nesting-September-26-2026",
+      "path": "preprints/Cylinder-loop-weights-and-planar-nesting-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "De-Giorgis-conjecture-in-dimension-eight-September-26-2026",
+      "path": "preprints/De-Giorgis-conjecture-in-dimension-eight-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Deforming-hypersymplectic-four-manifolds-to-hyperkahler-triples-October-7-2026",
+      "path": "preprints/Deforming-hypersymplectic-four-manifolds-to-hyperkahler-triples-October-7-2026/build/main.tex"
+    },
+    {
+      "id": "Determination-of-a-metric-and-a-unitary-connection-from-one-boundary-patch-October-5-2026",
+      "path": "preprints/Determination-of-a-metric-and-a-unitary-connection-from-one-boundary-patch-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026",
+      "path": "preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026",
+      "path": "preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Deterministic-quasipolynomial-time-mean-payoff-games-September-25-2026",
+      "path": "preprints/Deterministic-quasipolynomial-time-mean-payoff-games-September-25-2026/build/source/main.tex"
+    },
+    {
+      "id": "Diagonal-Fourier-extension-for-positively-curved-surfaces-in-three-dimensions-September-24-2026",
+      "path": "preprints/Diagonal-Fourier-extension-for-positively-curved-surfaces-in-three-dimensions-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Diamond-distortion-from-midpoint-and-tree-energies-September-27-2026",
+      "path": "preprints/Diamond-distortion-from-midpoint-and-tree-energies-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Directional-transience-implies-ballisticity-September-23-2026",
+      "path": "preprints/Directional-transience-implies-ballisticity-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Disk-transfer-representations-and-confined-bridge-mass-September-26-2026",
+      "path": "preprints/Disk-transfer-representations-and-confined-bridge-mass-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Donovans-Conjecture-over-Algebraic-Closures-of-Prime-Fields-September-24-2026",
+      "path": "preprints/Donovans-Conjecture-over-Algebraic-Closures-of-Prime-Fields-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Edit-Distance-in-l1-Matching-Bounds-up-to-Constants-in-the-Exponent-September-27-2026",
+      "path": "preprints/Edit-Distance-in-l1-Matching-Bounds-up-to-Constants-in-the-Exponent-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Electromagnetic-tails-and-the-Kerr-Newman-Penrose-inequality-October-5-2026",
+      "path": "preprints/Electromagnetic-tails-and-the-Kerr-Newman-Penrose-inequality-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "Elementary-Positivity-of-Chromatic-Quasisymmetric-Functions-September-24-2026",
+      "path": "preprints/Elementary-Positivity-of-Chromatic-Quasisymmetric-Functions-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Elliptic-Squares-and-Zilber-Pink-for-Curves-in-A2-September-24-2026",
+      "path": "preprints/Elliptic-Squares-and-Zilber-Pink-for-Curves-in-A2-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Elliptic-capacity-propagation-and-Fourier-restriction-to-the-sphere-September-24-2026",
+      "path": "preprints/Elliptic-capacity-propagation-and-Fourier-restriction-to-the-sphere-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Endpoint-convergence-for-the-planar-Schrodinger-equation-September-24-2026",
+      "path": "preprints/Endpoint-convergence-for-the-planar-Schrodinger-equation-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Endpoint-pointwise-convergence-for-the-Schrodinger-equation-in-higher-dimensions-September-24-2026",
+      "path": "preprints/Endpoint-pointwise-convergence-for-the-Schrodinger-equation-in-higher-dimensions-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Entanglement-with-zero-distillable-secret-key-in-local-dimension-ten-September-27-2026",
+      "path": "preprints/Entanglement-with-zero-distillable-secret-key-in-local-dimension-ten-September-27-2026/build/source/main.tex"
+    },
+    {
+      "id": "Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026",
+      "path": "preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Entropy-equality-and-local-symmetry-in-negative-curvature-September-23-2026",
+      "path": "preprints/Entropy-equality-and-local-symmetry-in-negative-curvature-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Equality-and-rigidity-in-the-spacetime-Penrose-inequality-September-27-2026",
+      "path": "preprints/Equality-and-rigidity-in-the-spacetime-Penrose-inequality-September-27-2026/build/paper.tex"
+    },
+    {
+      "id": "Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026",
+      "path": "preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Equidistribution-of-Prime-Degree-Torus-Packets-with-Arbitrary-Local-Type-September-24-2026",
+      "path": "preprints/Equidistribution-of-Prime-Degree-Torus-Packets-with-Arbitrary-Local-Type-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Equidistribution-of-Primitive-Quartic-Torus-Packets-for-Arbitrary-Orders-October-5-2026",
+      "path": "preprints/Equidistribution-of-Primitive-Quartic-Torus-Packets-for-Arbitrary-Orders-October-5-2026/build/manuscript/main.tex"
+    },
+    {
+      "id": "Equidistribution-of-Primitive-Sextic-Torus-Packets-October-5-2026",
+      "path": "preprints/Equidistribution-of-Primitive-Sextic-Torus-Packets-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Equivariant-Jiang-Su-Stability-for-Amenable-Actions-in-the-Unital-Stably-Finite-Case-October-5-2026",
+      "path": "preprints/Equivariant-Jiang-Su-Stability-for-Amenable-Actions-in-the-Unital-Stably-Finite-Case-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "Ergodicity-of-triangular-billiards-with-an-irrational-angle-September-25-2026",
+      "path": "preprints/Ergodicity-of-triangular-billiards-with-an-irrational-angle-September-25-2026/build/source/main.tex"
+    },
+    {
+      "id": "Essential-Singularity-of-the-Correlation-Length-in-the-Planar-XY-Model-October-5-2026",
+      "path": "preprints/Essential-Singularity-of-the-Correlation-Length-in-the-Planar-XY-Model-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Etale-covers-with-a-prescribed-exterior-sheet-September-24-2026",
+      "path": "preprints/Etale-covers-with-a-prescribed-exterior-sheet-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Eventual-Categoricity-for-Abstract-Elementary-Classes-September-24-2026",
+      "path": "preprints/Eventual-Categoricity-for-Abstract-Elementary-Classes-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Every-complex-K3-surface-is-Oka-September-23-2026",
+      "path": "preprints/Every-complex-K3-surface-is-Oka-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Every-four-dimensional-Kakeya-set-has-full-Hausdorff-dimension-September-24-2026",
+      "path": "preprints/Every-four-dimensional-Kakeya-set-has-full-Hausdorff-dimension-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Exact-Birch-Swinnerton-Dyer-Formula-from-Low-Selmer-Corank-October-7-2026",
+      "path": "preprints/Exact-Birch-Swinnerton-Dyer-Formula-from-Low-Selmer-Corank-October-7-2026/build/main.tex"
+    },
+    {
+      "id": "Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026",
+      "path": "preprints/Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Exact-Fourier-certificates-for-complex-Hadamard-matrices-of-order-six-September-24-2026",
+      "path": "preprints/Exact-Fourier-certificates-for-complex-Hadamard-matrices-of-order-six-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Exact-Uniform-Sampling-of-Contingency-Tables-with-Arbitrary-Margins-September-24-2026",
+      "path": "preprints/Exact-Uniform-Sampling-of-Contingency-Tables-with-Arbitrary-Margins-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Exact-asymptotic-moduli-in-a-Daugavet-subspace-of-L1-September-27-2026",
+      "path": "preprints/Exact-asymptotic-moduli-in-a-Daugavet-subspace-of-L1-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Exact-mass-asymptotics-for-the-two-dimensional-O4-lattice-model-October-5-2026",
+      "path": "preprints/Exact-mass-asymptotics-for-the-two-dimensional-O4-lattice-model-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Exact-orders-and-invariant-anticanonical-linear-systems-September-26-2026",
+      "path": "preprints/Exact-orders-and-invariant-anticanonical-linear-systems-September-26-2026/build/source/main.tex"
+    },
+    {
+      "id": "Exact-quantum-factoring-over-a-fixed-finite-gate-set-September-25-2026",
+      "path": "preprints/Exact-quantum-factoring-over-a-fixed-finite-gate-set-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Existential-universal-real-sentences-in-the-counting-hierarchy-October-4-2026",
+      "path": "preprints/Existential-universal-real-sentences-in-the-counting-hierarchy-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "Expected-amenable-subalgebras-preserving-core-commutants-September-23-2026",
+      "path": "preprints/Expected-amenable-subalgebras-preserving-core-commutants-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Exponential-PSD-rank-of-positively-shifted-matching-matrices-October-5-2026",
+      "path": "preprints/Exponential-PSD-rank-of-positively-shifted-matching-matrices-October-5-2026/build/source/main.tex"
+    },
+    {
+      "id": "Exponential-decay-in-two-dimensional-classical-On-models-September-23-2026",
+      "path": "preprints/Exponential-decay-in-two-dimensional-classical-On-models-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Failure-of-Bounded-Approximation-in-a-Lipschitz-Free-Space-over-a-Uniformly-Discrete-Metric-Space-September-26-2026",
+      "path": "preprints/Failure-of-Bounded-Approximation-in-a-Lipschitz-Free-Space-over-a-Uniformly-Discrete-Metric-Space-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Failure-of-finite-assembly-for-a-chromatic-overlap-at-the-prime-three-September-25-2026",
+      "path": "preprints/Failure-of-finite-assembly-for-a-chromatic-overlap-at-the-prime-three-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Failure-of-rational-injectivity-for-maximal-coarse-assembly-October-5-2026",
+      "path": "preprints/Failure-of-rational-injectivity-for-maximal-coarse-assembly-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Fiber-functors-for-finite-symmetric-tensor-categories-in-positive-characteristic-September-24-2026",
+      "path": "preprints/Fiber-functors-for-finite-symmetric-tensor-categories-in-positive-characteristic-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Filtered-chromatic-splitting-at-generic-primes-September-25-2026",
+      "path": "preprints/Filtered-chromatic-splitting-at-generic-primes-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Filtered-products-and-boundary-preserving-compression-in-complex-cobordism-September-25-2026",
+      "path": "preprints/Filtered-products-and-boundary-preserving-compression-in-complex-cobordism-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Finite-Circle-Obstructions-Binary-Codes-and-Histogram-Embeddings-for-Edit-Distance-September-27-2026",
+      "path": "preprints/Finite-Circle-Obstructions-Binary-Codes-and-Histogram-Embeddings-for-Edit-Distance-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Finite-Congruence-Lattices-Characterization-and-Undecidability-September-24-2026",
+      "path": "preprints/Finite-Congruence-Lattices-Characterization-and-Undecidability-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Finite-Instructions-and-Solenoidal-Shear-Flows-September-27-2026",
+      "path": "preprints/Finite-Instructions-and-Solenoidal-Shear-Flows-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Finite-Monoid-Computations-and-a-Uniform-Generalized-Star-Height-Bound-September-25-2026",
+      "path": "preprints/Finite-Monoid-Computations-and-a-Uniform-Generalized-Star-Height-Bound-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Finite-Smith-Toda-Complexes-at-Varying-Primes-September-23-2026",
+      "path": "preprints/Finite-Smith-Toda-Complexes-at-Varying-Primes-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Finite-algebraic-envelopes-and-the-Boone-Higman-conjecture-September-23-2026",
+      "path": "preprints/Finite-algebraic-envelopes-and-the-Boone-Higman-conjecture-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Finite-angular-cylinder-covers-below-the-half-area-bound-September-27-2026",
+      "path": "preprints/Finite-angular-cylinder-covers-below-the-half-area-bound-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Finite-cylinder-approximation-of-ruled-sets-September-27-2026",
+      "path": "preprints/Finite-cylinder-approximation-of-ruled-sets-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Finite-generation-for-the-Kn-local-sphere-September-24-2026",
+      "path": "preprints/Finite-generation-for-the-Kn-local-sphere-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-October-6-2026",
+      "path": "preprints/Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-September-24-2026",
+      "path": "preprints/Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Finite-tensor-savings-and-exact-Fourier-circuits-September-25-2026",
+      "path": "preprints/Finite-tensor-savings-and-exact-Fourier-circuits-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Finite-triangular-approximation-of-radial-sweeps-September-27-2026",
+      "path": "preprints/Finite-triangular-approximation-of-radial-sweeps-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Fixed-Points-of-Nonexpansive-Maps-in-Reflexive-Banach-Spaces-September-24-2026",
+      "path": "preprints/Fixed-Points-of-Nonexpansive-Maps-in-Reflexive-Banach-Spaces-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Fixed-energy-universality-for-weak-Anderson-disorder-on-random-regular-graphs-October-5-2026",
+      "path": "preprints/Fixed-energy-universality-for-weak-Anderson-disorder-on-random-regular-graphs-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "Fontaine-Mazur-modularity-at-the-prime-2-October-6-2026",
+      "path": "preprints/Fontaine-Mazur-modularity-at-the-prime-2-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026",
+      "path": "preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Fourfold-nonvanishing-by-minimal-metrics-and-moving-jets-September-27-2026",
+      "path": "preprints/Fourfold-nonvanishing-by-minimal-metrics-and-moving-jets-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Frobenius-Structures-on-Tame-Hecke-Eigensheaves-October-5-2026",
+      "path": "preprints/Frobenius-Structures-on-Tame-Hecke-Eigensheaves-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "From-critical-crossings-to-quenched-near-critical-universality-in-Voronoi-percolation-October-5-2026",
+      "path": "preprints/From-critical-crossings-to-quenched-near-critical-universality-in-Voronoi-percolation-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "From-partial-permutation-information-to-Fourier-bounds-September-26-2026",
+      "path": "preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Fujitas-freeness-conjecture-September-23-2026",
+      "path": "preprints/Fujitas-freeness-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Full-support-of-the-zero-temperature-Sherrington-Kirkpatrick-order-parameter-September-27-2026",
+      "path": "preprints/Full-support-of-the-zero-temperature-Sherrington-Kirkpatrick-order-parameter-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Functional-universality-of-critical-SK-autocorrelations-October-5-2026",
+      "path": "preprints/Functional-universality-of-critical-SK-autocorrelations-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "GOE-bulk-universality-for-fixed-degree-random-regular-graphs-September-23-2026",
+      "path": "preprints/GOE-bulk-universality-for-fixed-degree-random-regular-graphs-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-October-6-2026",
+      "path": "preprints/Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026",
+      "path": "preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Generalized-Star-Height-at-Most-Four-September-25-2026",
+      "path": "preprints/Generalized-Star-Height-at-Most-Four-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Generalized-Star-Height-at-Most-Three-September-25-2026",
+      "path": "preprints/Generalized-Star-Height-at-Most-Three-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Generalized-ionization-energies-for-full-Coulomb-atoms-September-24-2026",
+      "path": "preprints/Generalized-ionization-energies-for-full-Coulomb-atoms-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Generalized-outer-electron-radii-of-neutral-Coulomb-atoms-September-24-2026",
+      "path": "preprints/Generalized-outer-electron-radii-of-neutral-Coulomb-atoms-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Generic-C1-Future-Inextendibility-Near-Rotating-Subextremal-Kerr-Spacetimes-September-23-2026",
+      "path": "preprints/Generic-C1-Future-Inextendibility-Near-Rotating-Subextremal-Kerr-Spacetimes-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Generic-Future-Inextendibility-with-Square-Integrable-Connection-Near-a-Fixed-Kerr-Spacetime-September-23-2026",
+      "path": "preprints/Generic-Future-Inextendibility-with-Square-Integrable-Connection-Near-a-Fixed-Kerr-Spacetime-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Geometric-Programs-for-Solenoidal-Forcing-September-27-2026",
+      "path": "preprints/Geometric-Programs-for-Solenoidal-Forcing-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Giglis-distributional-curvature-characterization-of-Alexandrov-spaces-September-24-2026",
+      "path": "preprints/Giglis-distributional-curvature-characterization-of-Alexandrov-spaces-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Global-Arthur-Enhancements-of-Cuspidal-Excursion-Parameters-October-5-2026",
+      "path": "preprints/Global-Arthur-Enhancements-of-Cuspidal-Excursion-Parameters-October-5-2026/build/manuscript.tex"
+    },
+    {
+      "id": "Global-Spherical-Shells-on-Minimal-Surfaces-of-Class-VII-September-24-2026",
+      "path": "preprints/Global-Spherical-Shells-on-Minimal-Surfaces-of-Class-VII-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026",
+      "path": "preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026",
+      "path": "preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026",
+      "path": "preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Global-quantum-geometric-Langlands-at-irrational-level-October-4-2026",
+      "path": "preprints/Global-quantum-geometric-Langlands-at-irrational-level-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-October-7-2026",
+      "path": "preprints/Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-October-7-2026/build/main.tex"
+    },
+    {
+      "id": "Graph-Decompositions-at-the-Integral-Expectation-Threshold-October-5-2026",
+      "path": "preprints/Graph-Decompositions-at-the-Integral-Expectation-Threshold-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Ground-state-condensation-in-the-dilute-hard-sphere-gas-September-24-2026",
+      "path": "preprints/Ground-state-condensation-in-the-dilute-hard-sphere-gas-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Hamiltonian-Fixed-Points-Below-the-Stable-Morse-Number-October-5-2026",
+      "path": "preprints/Hamiltonian-Fixed-Points-Below-the-Stable-Morse-Number-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Hamiltonian-Fixed-Points-Below-the-Stable-Morse-Number-in-Dimension-Twenty-Two-October-5-2026",
+      "path": "preprints/Hamiltonian-Fixed-Points-Below-the-Stable-Morse-Number-in-Dimension-Twenty-Two-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Hard-sphere-fluctuations-on-the-regular-Boltzmann-lifespan-September-23-2026",
+      "path": "preprints/Hard-sphere-fluctuations-on-the-regular-Boltzmann-lifespan-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Hardness-of-finding-large-independent-sets-in-three-colorable-graphs-September-24-2026",
+      "path": "preprints/Hardness-of-finding-large-independent-sets-in-three-colorable-graphs-September-24-2026/build/source/main.tex"
+    },
+    {
+      "id": "Harmonic-heights-and-the-Artin-K-pi-1-conjecture-September-23-2026",
+      "path": "preprints/Harmonic-heights-and-the-Artin-K-pi-1-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026",
+      "path": "preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Hilberts-tenth-problem-over-the-rational-numbers-October-6-2026",
+      "path": "preprints/Hilberts-tenth-problem-over-the-rational-numbers-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "Homogeneous-depth-five-lower-bounds-for-iterated-matrix-multiplication-September-25-2026",
+      "path": "preprints/Homogeneous-depth-five-lower-bounds-for-iterated-matrix-multiplication-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Hyperbolicity-Cones-Without-Semidefinite-Lifts-October-5-2026",
+      "path": "preprints/Hyperbolicity-Cones-Without-Semidefinite-Lifts-October-5-2026/build/source/main.tex"
+    },
+    {
+      "id": "Incompressible-Box-Transport-and-Finite-Computation-October-6-2026",
+      "path": "preprints/Incompressible-Box-Transport-and-Finite-Computation-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "Independent-products-in-real-L1-asymptotic-midpoint-convexity-without-AUC-renormings-September-27-2026",
+      "path": "preprints/Independent-products-in-real-L1-asymptotic-midpoint-convexity-without-AUC-renormings-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Infinitely-many-closed-geodesic-images-on-every-Riemannian-sphere-September-24-2026",
+      "path": "preprints/Infinitely-many-closed-geodesic-images-on-every-Riemannian-sphere-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Integer-multiplication-below-n-log-n-September-23-2026",
+      "path": "preprints/Integer-multiplication-below-n-log-n-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Integrability-of-split-tangent-bundles-on-rationally-connected-manifolds-September-23-2026",
+      "path": "preprints/Integrability-of-split-tangent-bundles-on-rationally-connected-manifolds-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Integrable-metrics-and-effectivity-with-controlled-boundary-September-26-2026",
+      "path": "preprints/Integrable-metrics-and-effectivity-with-controlled-boundary-September-26-2026/build/source/main.tex"
+    },
+    {
+      "id": "Integral-Donovan-Finiteness-over-Witt-Vectors-September-25-2026",
+      "path": "preprints/Integral-Donovan-Finiteness-over-Witt-Vectors-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Integral-and-fractional-expectation-thresholds-are-equivalent-September-23-2026",
+      "path": "preprints/Integral-and-fractional-expectation-thresholds-are-equivalent-September-23-2026/build/source/main.tex"
+    },
+    {
+      "id": "Integral-points-on-character-varieties-of-curves-September-25-2026",
+      "path": "preprints/Integral-points-on-character-varieties-of-curves-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026",
+      "path": "preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Invariant-anticanonical-indices-and-conversion-of-twisted-differentials-September-26-2026",
+      "path": "preprints/Invariant-anticanonical-indices-and-conversion-of-twisted-differentials-September-26-2026/build/source/main.tex"
+    },
+    {
+      "id": "Invariant-projection-counterexamples-for-every-irrational-rotation-September-27-2026",
+      "path": "preprints/Invariant-projection-counterexamples-for-every-irrational-rotation-September-27-2026/build/paper.tex"
+    },
+    {
+      "id": "Irrational-cubic-fourfolds-with-geometric-K3-categories-September-24-2026",
+      "path": "preprints/Irrational-cubic-fourfolds-with-geometric-K3-categories-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Kadisons-similarity-theorem-through-uniform-derivation-estimates-September-23-2026",
+      "path": "preprints/Kadisons-similarity-theorem-through-uniform-derivation-estimates-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Koebes-Circle-Domain-Conjecture-September-23-2026",
+      "path": "preprints/Koebes-Circle-Domain-Conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026",
+      "path": "preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Lechs-multiplicity-conjecture-September-23-2026",
+      "path": "preprints/Lechs-multiplicity-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Lifting-sections-from-the-reduced-support-of-an-adjoint-September-27-2026",
+      "path": "preprints/Lifting-sections-from-the-reduced-support-of-an-adjoint-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Linear-Variance-of-the-Random-3-SAT-Hitting-Time-October-5-2026",
+      "path": "preprints/Linear-Variance-of-the-Random-3-SAT-Hitting-Time-October-5-2026/build/source/main.tex"
+    },
+    {
+      "id": "Lipschitz-Equivalent-Separable-Banach-Spaces-Need-Not-Be-Linearly-Isomorphic-September-24-2026",
+      "path": "preprints/Lipschitz-Equivalent-Separable-Banach-Spaces-Need-Not-Be-Linearly-Isomorphic-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Localization-costs-and-information-growth-for-exact-Gaussian-observations-September-27-2026",
+      "path": "preprints/Localization-costs-and-information-growth-for-exact-Gaussian-observations-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-6-2026",
+      "path": "preprints/Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "Log-abundance-in-characteristic-zero-September-24-2026",
+      "path": "preprints/Log-abundance-in-characteristic-zero-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Log-abundance-in-numerical-dimension-one-for-threefolds-in-positive-characteristic-October-5-2026",
+      "path": "preprints/Log-abundance-in-numerical-dimension-one-for-threefolds-in-positive-characteristic-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Logarithmic-Kodaira-dimension-and-whole-fiber-variation-September-26-2026",
+      "path": "preprints/Logarithmic-Kodaira-dimension-and-whole-fiber-variation-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Logarithmic-Relative-Fluctuations-in-the-Weakly-Disordered-Planar-Ising-Model-October-5-2026",
+      "path": "preprints/Logarithmic-Relative-Fluctuations-in-the-Weakly-Disordered-Planar-Ising-Model-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Marked-polygon-correlations-and-one-arc-bounds-September-26-2026",
+      "path": "preprints/Marked-polygon-correlations-and-one-arc-bounds-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Mass-and-covering-exponents-for-fixed-length-honeycomb-walks-September-26-2026",
+      "path": "preprints/Mass-and-covering-exponents-for-fixed-length-honeycomb-walks-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Matrix-Multiplication-Nine-Fourths-October-2-2026",
+      "path": "preprints/Matrix-Multiplication-Nine-Fourths-October-2-2026/build/paper.tex"
+    },
+    {
+      "id": "Maximal-Multipoint-Seshadri-Constants-in-Higher-Dimensions-October-5-2026",
+      "path": "preprints/Maximal-Multipoint-Seshadri-Constants-in-Higher-Dimensions-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Maximal-Seshadri-Constants-on-Arbitrary-Polarized-Surfaces-September-23-2026",
+      "path": "preprints/Maximal-Seshadri-Constants-on-Arbitrary-Polarized-Surfaces-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Maximal-multipoint-Seshadri-constants-in-positive-characteristic-October-5-2026",
+      "path": "preprints/Maximal-multipoint-Seshadri-constants-in-positive-characteristic-October-5-2026/build/build/main.tex"
+    },
+    {
+      "id": "Mean-payoff-parity-games-in-quasipolynomial-time-October-5-2026",
+      "path": "preprints/Mean-payoff-parity-games-in-quasipolynomial-time-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Memory-and-precision-in-noiseless-Gaussian-regression-September-27-2026",
+      "path": "preprints/Memory-and-precision-in-noiseless-Gaussian-regression-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Metric-Markov-Cotype-Two-of-l1-October-5-2026",
+      "path": "preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Metric-descent-and-rank-preserving-contractions-September-26-2026",
+      "path": "preprints/Metric-descent-and-rank-preserving-contractions-September-26-2026/build/source/main.tex"
+    },
+    {
+      "id": "Metric-measure-limits-of-subcritical-FK-and-spanning-tree-planar-maps-September-24-2026",
+      "path": "preprints/Metric-measure-limits-of-subcritical-FK-and-spanning-tree-planar-maps-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Microscopic-jamming-in-the-negative-spherical-perceptron-September-24-2026",
+      "path": "preprints/Microscopic-jamming-in-the-negative-spherical-perceptron-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Midpoint-convexity-from-bounded-tree-potentials-and-path-costs-September-27-2026",
+      "path": "preprints/Midpoint-convexity-from-bounded-tree-potentials-and-path-costs-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Midpoint-convexity-from-two-recursive-potentials-September-27-2026",
+      "path": "preprints/Midpoint-convexity-from-two-recursive-potentials-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Midpoint-lenses-in-segment-spaces-September-27-2026",
+      "path": "preprints/Midpoint-lenses-in-segment-spaces-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Milnes-rationality-conjecture-for-abelian-varieties-October-7-2026",
+      "path": "preprints/Milnes-rationality-conjecture-for-abelian-varieties-October-7-2026/build/main.tex"
+    },
+    {
+      "id": "Minimal-metrics-and-interior-injectivity-for-nef-adjoints-September-27-2026",
+      "path": "preprints/Minimal-metrics-and-interior-injectivity-for-nef-adjoints-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Minimal-models-and-Mori-fibre-spaces-for-generalized-log-canonical-Q-pairs-September-24-2026",
+      "path": "preprints/Minimal-models-and-Mori-fibre-spaces-for-generalized-log-canonical-Q-pairs-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Minimal-models-in-numerical-dimension-one-September-24-2026",
+      "path": "preprints/Minimal-models-in-numerical-dimension-one-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Modularity-of-elliptic-curves-over-imaginary-quadratic-fields-October-4-2026",
+      "path": "preprints/Modularity-of-elliptic-curves-over-imaginary-quadratic-fields-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "Monochromatic-finite-sums-and-products-in-the-positive-integers-September-23-2026",
+      "path": "preprints/Monochromatic-finite-sums-and-products-in-the-positive-integers-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Nagatas-Conjecture-for-Plane-Curves-September-23-2026",
+      "path": "preprints/Nagatas-Conjecture-for-Plane-Curves-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Natural-Occupation-Measures-for-Critical-Square-Lattice-FK-Interfaces-October-5-2026",
+      "path": "preprints/Natural-Occupation-Measures-for-Critical-Square-Lattice-FK-Interfaces-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Near-Inclusions-of-von-Neumann-Algebras-Without-Small-Spatial-Embeddings-October-5-2026",
+      "path": "preprints/Near-Inclusions-of-von-Neumann-Algebras-Without-Small-Spatial-Embeddings-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Near-square-root-logarithmic-integrality-gaps-for-uniform-sparsest-cut-September-24-2026",
+      "path": "preprints/Near-square-root-logarithmic-integrality-gaps-for-uniform-sparsest-cut-September-24-2026/build/source/main.tex"
+    },
+    {
+      "id": "Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026",
+      "path": "preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "No-bigeodesics-in-planar-first-passage-percolation-September-24-2026",
+      "path": "preprints/No-bigeodesics-in-planar-first-passage-percolation-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "No-percolation-at-criticality-on-quasi-transitive-graphs-September-24-2026",
+      "path": "preprints/No-percolation-at-criticality-on-quasi-transitive-graphs-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Nonhomeomorphic-closed-aspherical-four-manifolds-with-the-same-homotopy-type-October-4-2026",
+      "path": "preprints/Nonhomeomorphic-closed-aspherical-four-manifolds-with-the-same-homotopy-type-October-4-2026/build/paper.tex"
+    },
+    {
+      "id": "Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026",
+      "path": "preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Nontrivial-Markov-Type-Forces-Superreflexivity-September-23-2026",
+      "path": "preprints/Nontrivial-Markov-Type-Forces-Superreflexivity-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Nonuniqueness-for-Bounded-Measurable-Scalar-Conductivities-in-Three-Dimensions-September-23-2026",
+      "path": "preprints/Nonuniqueness-for-Bounded-Measurable-Scalar-Conductivities-in-Three-Dimensions-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Nonuniqueness-for-the-periodic-hard-sphere-Boltzmann-equation-September-23-2026",
+      "path": "preprints/Nonuniqueness-for-the-periodic-hard-sphere-Boltzmann-equation-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Nonuniqueness-of-percolation-on-nonamenable-quasi-transitive-graphs-September-24-2026",
+      "path": "preprints/Nonuniqueness-of-percolation-on-nonamenable-quasi-transitive-graphs-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Nonuniqueness-with-local-conservation-for-the-hard-sphere-Boltzmann-equation-October-5-2026",
+      "path": "preprints/Nonuniqueness-with-local-conservation-for-the-hard-sphere-Boltzmann-equation-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Nuclear-dimension-and-Jiang-Su-stability-without-elementary-subquotients-September-23-2026",
+      "path": "preprints/Nuclear-dimension-and-Jiang-Su-stability-without-elementary-subquotients-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Numerical-Semiampleness-of-Nef-Adjoint-Divisors-October-3-2026",
+      "path": "preprints/Numerical-Semiampleness-of-Nef-Adjoint-Divisors-October-3-2026/build/main.tex"
+    },
+    {
+      "id": "Numerical-semiampleness-of-nef-adjoint-classes-on-compact-Kahler-manifolds-October-6-2026",
+      "path": "preprints/Numerical-semiampleness-of-nef-adjoint-classes-on-compact-Kahler-manifolds-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "One-Rational-Matrix-Hitting-Point-for-Noncommutative-Formulas-September-24-2026",
+      "path": "preprints/One-Rational-Matrix-Hitting-Point-for-Noncommutative-Formulas-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "One-Sample-Suffices-for-Matroid-Prophet-Inequalities-against-an-Almighty-Adversary-September-23-2026",
+      "path": "preprints/One-Sample-Suffices-for-Matroid-Prophet-Inequalities-against-an-Almighty-Adversary-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "One-sided-negative-sectional-curvature-and-the-holomorphic-Liouville-property-September-25-2026",
+      "path": "preprints/One-sided-negative-sectional-curvature-and-the-holomorphic-Liouville-property-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Open-Homomorphisms-of-Global-Solvably-Closed-Galois-Groups-October-5-2026",
+      "path": "preprints/Open-Homomorphisms-of-Global-Solvably-Closed-Galois-Groups-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Optimal-order-mixing-of-the-Thorp-shuffle-September-26-2026",
+      "path": "preprints/Optimal-order-mixing-of-the-Thorp-shuffle-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Orbifold-and-logarithmic-Iitaka-subadditivity-September-26-2026",
+      "path": "preprints/Orbifold-and-logarithmic-Iitaka-subadditivity-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Ordinary-two-point-correlations-of-multiplicative-functions-September-24-2026",
+      "path": "preprints/Ordinary-two-point-correlations-of-multiplicative-functions-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "P-equals-W-in-composite-rank-for-fixed-determinant-September-24-2026",
+      "path": "preprints/P-equals-W-in-composite-rank-for-fixed-determinant-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Paired-states-and-Hamiltonian-cycles-in-cubic-bipartite-planar-graphs-September-24-2026",
+      "path": "preprints/Paired-states-and-Hamiltonian-cycles-in-cubic-bipartite-planar-graphs-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Parabolic-intersections-in-Artin-groups-September-23-2026",
+      "path": "preprints/Parabolic-intersections-in-Artin-groups-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Parity-lifts-and-bounded-treewidth-witnesses-for-Weisfeiler-Leman-equivalence-September-25-2026",
+      "path": "preprints/Parity-lifts-and-bounded-treewidth-witnesses-for-Weisfeiler-Leman-equivalence-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Path-selection-and-an-elliptic-inequality-on-degenerating-Ricci-flat-trees-September-24-2026",
+      "path": "preprints/Path-selection-and-an-elliptic-inequality-on-degenerating-Ricci-flat-trees-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Perfect-completeness-for-2-to-1-games-September-23-2026",
+      "path": "preprints/Perfect-completeness-for-2-to-1-games-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Pettys-projection-volume-conjecture-in-dimensions-at-least-four-September-24-2026",
+      "path": "preprints/Pettys-projection-volume-conjecture-in-dimensions-at-least-four-September-24-2026/build/latex/main.tex"
+    },
+    {
+      "id": "Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026",
+      "path": "preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Pointwise-Multiple-Ergodic-Averages-for-Mixing-Transformations-October-4-2026",
+      "path": "preprints/Pointwise-Multiple-Ergodic-Averages-for-Mixing-Transformations-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "Pointwise-convergence-of-fourfold-ergodic-averages-for-mixing-transformations-October-4-2026",
+      "path": "preprints/Pointwise-convergence-of-fourfold-ergodic-averages-for-mixing-transformations-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "Pointwise-convergence-of-triple-ergodic-averages-for-mixing-transformations-October-4-2026",
+      "path": "preprints/Pointwise-convergence-of-triple-ergodic-averages-for-mixing-transformations-October-4-2026/build/paper/main.tex"
+    },
+    {
+      "id": "Polynomial-Hitting-Lists-for-Noncommutative-Rational-Formulas-September-24-2026",
+      "path": "preprints/Polynomial-Hitting-Lists-for-Noncommutative-Rational-Formulas-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026",
+      "path": "preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Polynomial-PEPS-approximation-of-gapped-square-grid-ground-states-September-24-2026",
+      "path": "preprints/Polynomial-PEPS-approximation-of-gapped-square-grid-ground-states-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Polynomial-Time-Unitary-Synthesis-from-a-Boolean-Oracle-October-5-2026",
+      "path": "preprints/Polynomial-Time-Unitary-Synthesis-from-a-Boolean-Oracle-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Polynomial-removal-fails-for-ordered-binary-matrices-September-25-2026",
+      "path": "preprints/Polynomial-removal-fails-for-ordered-binary-matrices-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Polynomial-vacuum-representations-and-bridge-mass-for-honeycomb-walks-September-26-2026",
+      "path": "preprints/Polynomial-vacuum-representations-and-bridge-mass-for-honeycomb-walks-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Positive-Metric-Entropy-for-the-Standard-Map-at-Large-Parameters-September-23-2026",
+      "path": "preprints/Positive-Metric-Entropy-for-the-Standard-Map-at-Large-Parameters-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Positive-eigenvalues-of-the-relative-SU-2-BFSS-Hamiltonian-October-5-2026",
+      "path": "preprints/Positive-eigenvalues-of-the-relative-SU-2-BFSS-Hamiltonian-October-5-2026/build/positive-eigenvalues-relative-su2-bfss.tex"
+    },
+    {
+      "id": "Positive-lower-density-of-large-prime-gaps-September-25-2026",
+      "path": "preprints/Positive-lower-density-of-large-prime-gaps-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Positive-scalar-curvature-and-uniform-codimension-two-width-September-23-2026",
+      "path": "preprints/Positive-scalar-curvature-and-uniform-codimension-two-width-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026",
+      "path": "preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Positively-curved-Einstein-four-manifolds-September-23-2026",
+      "path": "preprints/Positively-curved-Einstein-four-manifolds-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Positivity-of-Serres-Intersection-Multiplicity-September-23-2026",
+      "path": "preprints/Positivity-of-Serres-Intersection-Multiplicity-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Posterior-replicas-and-conditional-information-in-Gaussian-regression-September-27-2026",
+      "path": "preprints/Posterior-replicas-and-conditional-information-in-Gaussian-regression-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Power-law-violations-of-Yaus-nodal-upper-bound-September-23-2026",
+      "path": "preprints/Power-law-violations-of-Yaus-nodal-upper-bound-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Prefix-Instructions-and-Incompressible-Flows-September-27-2026",
+      "path": "preprints/Prefix-Instructions-and-Incompressible-Flows-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Prescribed-large-volume-charges-on-threefolds-with-trivial-canonical-bundle-September-24-2026",
+      "path": "preprints/Prescribed-large-volume-charges-on-threefolds-with-trivial-canonical-bundle-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Prime-Predecessors-with-an-Even-Number-of-Prime-Factors-September-17-2026",
+      "path": "preprints/Prime-Predecessors-with-an-Even-Number-of-Prime-Factors-September-17-2026/build/main.tex"
+    },
+    {
+      "id": "Primitive-roots-for-every-admissible-integer-base-October-4-2026",
+      "path": "preprints/Primitive-roots-for-every-admissible-integer-base-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "Product-projection-localization-and-the-QAC0-parity-lower-bound-September-24-2026",
+      "path": "preprints/Product-projection-localization-and-the-QAC0-parity-lower-bound-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Projection-moments-positive-cap-domination-and-Riesz-estimates-on-the-sphere-September-27-2026",
+      "path": "preprints/Projection-moments-positive-cap-domination-and-Riesz-estimates-on-the-sphere-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Projective-Hodge-lines-and-ordinary-Iitaka-subadditivity-September-27-2026",
+      "path": "preprints/Projective-Hodge-lines-and-ordinary-Iitaka-subadditivity-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Projective-Space-Bases-of-Lagrangian-Fibrations-September-23-2026",
+      "path": "preprints/Projective-Space-Bases-of-Lagrangian-Fibrations-September-23-2026/build/source/main.tex"
+    },
+    {
+      "id": "Pure-Point-Spectrum-for-the-Two-Dimensional-Anderson-Model-at-Every-Positive-Disorder-September-23-2026",
+      "path": "preprints/Pure-Point-Spectrum-for-the-Two-Dimensional-Anderson-Model-at-Every-Positive-Disorder-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Purely-Cosmetic-Surgery-on-Knots-in-the-Three-Sphere-September-23-2026",
+      "path": "preprints/Purely-Cosmetic-Surgery-on-Knots-in-the-Three-Sphere-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "QAOA-attains-the-SK-ground-state-energy-in-the-thermodynamic-first-limit-September-25-2026",
+      "path": "preprints/QAOA-attains-the-SK-ground-state-energy-in-the-thermodynamic-first-limit-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "QMA-hardness-of-continuum-Coulomb-energy-with-unit-nuclear-charges-September-24-2026",
+      "path": "preprints/QMA-hardness-of-continuum-Coulomb-energy-with-unit-nuclear-charges-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Quadratic-Stabilization-of-the-Canonical-Foulkes-Howe-Map-September-25-2026",
+      "path": "preprints/Quadratic-Stabilization-of-the-Canonical-Foulkes-Howe-Map-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026",
+      "path": "preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex"
+    },
+    {
+      "id": "Quantitative-Near-Kerr-Evolution-and-Generic-C2-Future-Inextendibility-September-23-2026",
+      "path": "preprints/Quantitative-Near-Kerr-Evolution-and-Generic-C2-Future-Inextendibility-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Quantitative-Superexponential-Bounds-for-van-der-Waerden-Numbers-September-23-2026",
+      "path": "preprints/Quantitative-Superexponential-Bounds-for-van-der-Waerden-Numbers-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Quantum-Depletion-and-Momentum-Distribution-in-the-Dilute-Hard-Sphere-Bose-Gas-October-5-2026",
+      "path": "preprints/Quantum-Depletion-and-Momentum-Distribution-in-the-Dilute-Hard-Sphere-Bose-Gas-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Quantum-Depletion-for-Fixed-Bounded-Repulsive-Potentials-October-5-2026",
+      "path": "preprints/Quantum-Depletion-for-Fixed-Bounded-Repulsive-Potentials-October-5-2026/build/source/main.tex"
+    },
+    {
+      "id": "Quasipolynomial-Bounds-for-Arithmetic-Progressions-September-23-2026",
+      "path": "preprints/Quasipolynomial-Bounds-for-Arithmetic-Progressions-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Quaternionic-Division-Points-on-Curves-in-the-Siegel-Threefold-September-24-2026",
+      "path": "preprints/Quaternionic-Division-Points-on-Curves-in-the-Siegel-Threefold-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Quenched-SLE-Universality-for-Weakly-Disordered-FK-Ising-Interfaces-October-5-2026",
+      "path": "preprints/Quenched-SLE-Universality-for-Weakly-Disordered-FK-Ising-Interfaces-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Quenched-SLE3-Universality-for-the-Weak-Random-Bond-Ising-Model-October-5-2026",
+      "path": "preprints/Quenched-SLE3-Universality-for-the-Weak-Random-Bond-Ising-Model-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Quenched-SLE3-limits-for-general-weak-random-bond-Ising-models-October-5-2026",
+      "path": "preprints/Quenched-SLE3-limits-for-general-weak-random-bond-Ising-models-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Radial-transfer-estimates-and-polygon-length-laws-for-honeycomb-walks-September-26-2026",
+      "path": "preprints/Radial-transfer-estimates-and-polygon-length-laws-for-honeycomb-walks-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Radius-of-comparison-equals-half-the-mean-dimension-September-25-2026",
+      "path": "preprints/Radius-of-comparison-equals-half-the-mean-dimension-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Ramanujan-Arthur-Decompositions-of-Cuspidal-Functions-at-Full-Finite-Level-September-24-2026",
+      "path": "preprints/Ramanujan-Arthur-Decompositions-of-Cuspidal-Functions-at-Full-Finite-Level-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Random-Walks-on-Critical-FK-Ising-Maps-and-Liouville-Brownian-Motion-October-5-2026",
+      "path": "preprints/Random-Walks-on-Critical-FK-Ising-Maps-and-Liouville-Brownian-Motion-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Random-coordinate-frames-and-partial-permutation-laws-September-26-2026",
+      "path": "preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Random-subspace-tests-and-trace-smoothing-for-coordinate-sweeps-September-26-2026",
+      "path": "preprints/Random-subspace-tests-and-trace-smoothing-for-coordinate-sweeps-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Randomized-quasipolynomial-time-mean-payoff-games-September-25-2026",
+      "path": "preprints/Randomized-quasipolynomial-time-mean-payoff-games-September-25-2026/build/source/main.tex"
+    },
+    {
+      "id": "Rational-homology-and-Quillens-conjecture-September-24-2026",
+      "path": "preprints/Rational-homology-and-Quillens-conjecture-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Rationality-of-the-Canonical-Unramified-Arthur-Filtration-September-24-2026",
+      "path": "preprints/Rationality-of-the-Canonical-Unramified-Arthur-Filtration-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Reconstruction-from-Milnor-K-theory-modulo-the-characteristic-October-5-2026",
+      "path": "preprints/Reconstruction-from-Milnor-K-theory-modulo-the-characteristic-October-5-2026/build/build/main.tex"
+    },
+    {
+      "id": "Reconstruction-of-Function-Fields-from-Mod-ell-Milnor-K-Theory-October-5-2026",
+      "path": "preprints/Reconstruction-of-Function-Fields-from-Mod-ell-Milnor-K-Theory-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Regular-trajectories-pruning-and-quantum-parity-September-24-2026",
+      "path": "preprints/Regular-trajectories-pruning-and-quantum-parity-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Relative-denominators-and-effective-systems-for-log-Calabi-Yau-fibrations-September-27-2026",
+      "path": "preprints/Relative-denominators-and-effective-systems-for-log-Calabi-Yau-fibrations-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Relative-generation-and-the-generator-problem-for-finite-factors-September-23-2026",
+      "path": "preprints/Relative-generation-and-the-generator-problem-for-finite-factors-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Relative-independence-of-the-separable-quotient-problem-September-23-2026",
+      "path": "preprints/Relative-independence-of-the-separable-quotient-problem-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Removable-Boundaries-and-Rigidity-of-Circle-Domains-September-23-2026",
+      "path": "preprints/Removable-Boundaries-and-Rigidity-of-Circle-Domains-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Renewal-and-changes-of-law-for-critical-honeycomb-walks-September-26-2026",
+      "path": "preprints/Renewal-and-changes-of-law-for-critical-honeycomb-walks-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Replacing-Gaussian-observations-in-memory-constrained-inference-September-27-2026",
+      "path": "preprints/Replacing-Gaussian-observations-in-memory-constrained-inference-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Riesz-transforms-and-uniform-rectifiability-in-higher-codimension-September-24-2026",
+      "path": "preprints/Riesz-transforms-and-uniform-rectifiability-in-higher-codimension-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Rigidity-of-Smooth-Billiards-with-a-Continuous-Caustic-Collar-September-24-2026",
+      "path": "preprints/Rigidity-of-Smooth-Billiards-with-a-Continuous-Caustic-Collar-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Rigidity-of-the-Turing-degrees-September-24-2026",
+      "path": "preprints/Rigidity-of-the-Turing-degrees-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Rokhlins-multiple-mixing-problem-for-one-transformation-September-23-2026",
+      "path": "preprints/Rokhlins-multiple-mixing-problem-for-one-transformation-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Routing-densities-and-representation-contraction-for-Thorp-sweeps-September-26-2026",
+      "path": "preprints/Routing-densities-and-representation-contraction-for-Thorp-sweeps-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Row-column-symmetry-and-contraction-of-coordinate-sweeps-September-26-2026",
+      "path": "preprints/Row-column-symmetry-and-contraction-of-coordinate-sweeps-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "SLE3-universality-for-weak-finite-range-Ising-interactions-September-23-2026",
+      "path": "preprints/SLE3-universality-for-weak-finite-range-Ising-interactions-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Scalar-Potentials-and-Slow-Clocks-for-Forced-Fluid-Computation-September-27-2026",
+      "path": "preprints/Scalar-Potentials-and-Slow-Clocks-for-Forced-Fluid-Computation-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Scale-and-conformal-symmetry-in-four-dimensional-operational-quantum-field-theory-September-26-2026",
+      "path": "preprints/Scale-and-conformal-symmetry-in-four-dimensional-operational-quantum-field-theory-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Schnell-fiber-spaces-and-good-canonical-models-September-24-2026",
+      "path": "preprints/Schnell-fiber-spaces-and-good-canonical-models-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Self-dual-random-cluster-interfaces-below-one-September-23-2026",
+      "path": "preprints/Self-dual-random-cluster-interfaces-below-one-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026",
+      "path": "preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Sharp-Logarithmic-Exponents-for-Fixed-Off-Diagonal-Ramsey-Numbers-September-24-2026",
+      "path": "preprints/Sharp-Logarithmic-Exponents-for-Fixed-Off-Diagonal-Ramsey-Numbers-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026",
+      "path": "preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Sharp-One-Third-Stability-of-Brenier-Maps-September-25-2026",
+      "path": "preprints/Sharp-One-Third-Stability-of-Brenier-Maps-September-25-2026/build/source/main.tex"
+    },
+    {
+      "id": "Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026",
+      "path": "preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026",
+      "path": "preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Sharp-mass-bounds-for-the-two-dimensional-O4-model-September-23-2026",
+      "path": "preprints/Sharp-mass-bounds-for-the-two-dimensional-O4-model-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Sharp-nodal-length-on-smooth-surfaces-September-23-2026",
+      "path": "preprints/Sharp-nodal-length-on-smooth-surfaces-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026",
+      "path": "preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Sharpness-of-the-Cyclic-Integral-Floer-Bound-Below-the-Stable-Morse-Number-October-5-2026",
+      "path": "preprints/Sharpness-of-the-Cyclic-Integral-Floer-Bound-Below-the-Stable-Morse-Number-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Short-Egyptian-fractions-September-25-2026",
+      "path": "preprints/Short-Egyptian-fractions-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Signed-cylinder-propagation-and-marked-polygons-on-the-honeycomb-lattice-September-26-2026",
+      "path": "preprints/Signed-cylinder-propagation-and-marked-polygons-on-the-honeycomb-lattice-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Signed-tensor-densities-and-diagram-budgets-for-coordinate-sweeps-September-26-2026",
+      "path": "preprints/Signed-tensor-densities-and-diagram-budgets-for-coordinate-sweeps-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Simple-F-infinity-overgroups-of-groups-with-decidable-word-problem-September-23-2026",
+      "path": "preprints/Simple-F-infinity-overgroups-of-groups-with-decidable-word-problem-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Simulating-One-Tape-Time-in-Two-Fifths-Power-Space-September-25-2026",
+      "path": "preprints/Simulating-One-Tape-Time-in-Two-Fifths-Power-Space-September-25-2026/build/source/main.tex"
+    },
+    {
+      "id": "Simultaneous-primitive-roots-a-conditional-lower-bound-for-prime-bases-October-4-2026",
+      "path": "preprints/Simultaneous-primitive-roots-a-conditional-lower-bound-for-prime-bases-October-4-2026/build/paper.tex"
+    },
+    {
+      "id": "Single-Exponential-Recovery-and-Bounded-Price-Strictness-for-Metric-k-Median-September-24-2026",
+      "path": "preprints/Single-Exponential-Recovery-and-Bounded-Price-Strictness-for-Metric-k-Median-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Single-fold-Diophantine-representations-September-24-2026",
+      "path": "preprints/Single-fold-Diophantine-representations-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Slope-field-perturbations-of-the-two-cylinder-covering-September-27-2026",
+      "path": "preprints/Slope-field-perturbations-of-the-two-cylinder-covering-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Smooth-Anisotropic-Uniqueness-in-the-Calderon-Problem-from-One-Boundary-Patch-September-24-2026",
+      "path": "preprints/Smooth-Anisotropic-Uniqueness-in-the-Calderon-Problem-from-One-Boundary-Patch-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026",
+      "path": "preprints/Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026/build/source/main.tex"
+    },
+    {
+      "id": "Smooth-counterexamples-to-Yaus-nodal-upper-bound-in-dimensions-three-and-four-September-23-2026",
+      "path": "preprints/Smooth-counterexamples-to-Yaus-nodal-upper-bound-in-dimensions-three-and-four-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026",
+      "path": "preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Snaky-in-21-Maker-moves-September-25-2026",
+      "path": "preprints/Snaky-in-21-Maker-moves-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Spacetime-Penrose-inequalities-enclosing-area-charge-and-rigidity-October-5-2026",
+      "path": "preprints/Spacetime-Penrose-inequalities-enclosing-area-charge-and-rigidity-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "Spectral-convergence-for-critical-FK-Ising-planar-maps-October-5-2026",
+      "path": "preprints/Spectral-convergence-for-critical-FK-Ising-planar-maps-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "Spectral-scalar-curvature-and-Urysohn-width-in-dimension-three-October-5-2026",
+      "path": "preprints/Spectral-scalar-curvature-and-Urysohn-width-in-dimension-three-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Spectral-scalar-curvature-and-uniform-Urysohn-width-October-5-2026",
+      "path": "preprints/Spectral-scalar-curvature-and-uniform-Urysohn-width-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026",
+      "path": "preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex"
+    },
+    {
+      "id": "Square-lattice-FK-interfaces-and-nested-loops-for-1-leq-q-lt-4-September-23-2026",
+      "path": "preprints/Square-lattice-FK-interfaces-and-nested-loops-for-1-leq-q-lt-4-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Squared-logarithmic-randomized-k-server-on-arbitrary-metrics-September-24-2026",
+      "path": "preprints/Squared-logarithmic-randomized-k-server-on-arbitrary-metrics-September-24-2026/build/source/main.tex"
+    },
+    {
+      "id": "Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026",
+      "path": "preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Stabilizer-Orbits-and-Thick-Tensor-Ideals-of-Dualizable-Kn-Local-Spectra-September-24-2026",
+      "path": "preprints/Stabilizer-Orbits-and-Thick-Tensor-Ideals-of-Dualizable-Kn-Local-Spectra-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Stable-Self-Similar-Blowup-for-a-Supercritical-Defocusing-Schrodinger-Equation-on-the-Torus-September-24-2026",
+      "path": "preprints/Stable-Self-Similar-Blowup-for-a-Supercritical-Defocusing-Schrodinger-Equation-on-the-Torus-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Staggered-extraction-for-exact-matrix-multiplication-over-every-field-September-24-2026",
+      "path": "preprints/Staggered-extraction-for-exact-matrix-multiplication-over-every-field-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Stretched-exponential-barriers-for-typical-SK-initial-states-September-24-2026",
+      "path": "preprints/Stretched-exponential-barriers-for-typical-SK-initial-states-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Strict-convexity-and-differentiability-of-the-planar-exponential-first-passage-limit-shape-September-24-2026",
+      "path": "preprints/Strict-convexity-and-differentiability-of-the-planar-exponential-first-passage-limit-shape-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Strict-hot-spots-and-absence-of-interior-critical-points-on-smooth-simply-connected-planar-domains-September-24-2026",
+      "path": "preprints/Strict-hot-spots-and-absence-of-interior-critical-points-on-smooth-simply-connected-planar-domains-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Strong-Ulam-Stability-Characterizes-Amenability-October-5-2026",
+      "path": "preprints/Strong-Ulam-Stability-Characterizes-Amenability-October-5-2026/build/strong-ulam-stability.tex"
+    },
+    {
+      "id": "Strong-diffeomorphic-approximation-in-three-dimensions-for-1-le-p-le-2-September-24-2026",
+      "path": "preprints/Strong-diffeomorphic-approximation-in-three-dimensions-for-1-le-p-le-2-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Strong-diffeomorphic-approximation-in-three-dimensions-for-p-gt-2-September-24-2026",
+      "path": "preprints/Strong-diffeomorphic-approximation-in-three-dimensions-for-p-gt-2-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026",
+      "path": "preprints/Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Subpolynomial-dimension-reduction-in-Lp-September-23-2026",
+      "path": "preprints/Subpolynomial-dimension-reduction-in-Lp-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026",
+      "path": "preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Subset-Sum-in-Time-2-power-0-49n-October-4-2026",
+      "path": "preprints/Subset-Sum-in-Time-2-power-0-49n-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "Subsphere-methods-for-memory-sample-lower-bounds-in-noiseless-Gaussian-regression-September-27-2026",
+      "path": "preprints/Subsphere-methods-for-memory-sample-lower-bounds-in-noiseless-Gaussian-regression-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026",
+      "path": "preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Symplectic-Ball-Packings-in-Higher-Dimensions-September-23-2026",
+      "path": "preprints/Symplectic-Ball-Packings-in-Higher-Dimensions-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Symplectic-Balls-in-Symmetric-Polar-Products-September-22-2026",
+      "path": "preprints/Symplectic-Balls-in-Symmetric-Polar-Products-September-22-2026/build/main.tex"
+    },
+    {
+      "id": "Talagrands-discrete-convexity-conjecture-September-23-2026",
+      "path": "preprints/Talagrands-discrete-convexity-conjecture-September-23-2026/build/source/main.tex"
+    },
+    {
+      "id": "Tame-Hecke-Eigensheaves-with-Several-Marked-Points-October-5-2026",
+      "path": "preprints/Tame-Hecke-Eigensheaves-with-Several-Marked-Points-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Taming-implies-compatibility-on-four-manifolds-October-6-2026",
+      "path": "preprints/Taming-implies-compatibility-on-four-manifolds-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "Tangent-flow-uniqueness-2026-09-24",
+      "path": "preprints/Tangent-flow-uniqueness-2026-09-24/build/paper.tex"
+    },
+    {
+      "id": "Temperedness-at-ramified-places-for-globally-generic-exceptional-groups-October-5-2026",
+      "path": "preprints/Temperedness-at-ramified-places-for-globally-generic-exceptional-groups-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "Tensor-Saturation-for-Even-Spin-Groups-September-24-2026",
+      "path": "preprints/Tensor-Saturation-for-Even-Spin-Groups-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Termination-for-projective-log-canonical-fourfolds-with-rational-boundary-September-24-2026",
+      "path": "preprints/Termination-for-projective-log-canonical-fourfolds-with-rational-boundary-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Termination-of-generalized-canonical-flips-on-compact-Kahler-fourfolds-October-6-2026",
+      "path": "preprints/Termination-of-generalized-canonical-flips-on-compact-Kahler-fourfolds-October-6-2026/build/build/paper.tex"
+    },
+    {
+      "id": "Termination-of-generalized-log-canonical-flips-on-compact-Kahler-fourfolds-October-7-2026",
+      "path": "preprints/Termination-of-generalized-log-canonical-flips-on-compact-Kahler-fourfolds-October-7-2026/build/main.tex"
+    },
+    {
+      "id": "The-Abelian-Zilber-Pink-Conjecture-September-24-2026",
+      "path": "preprints/The-Abelian-Zilber-Pink-Conjecture-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Approximation-Threshold-for-Metric-k-Median-September-24-2026",
+      "path": "preprints/The-Approximation-Threshold-for-Metric-k-Median-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-Artinian-Lex-Plus-Powers-Betti-Theorem-September-23-2026",
+      "path": "preprints/The-Artinian-Lex-Plus-Powers-Betti-Theorem-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-Bass-trace-conjecture-for-complex-group-rings-September-24-2026",
+      "path": "preprints/The-Bass-trace-conjecture-for-complex-group-rings-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-Blockwise-Alperin-Weight-Conjecture-September-23-2026",
+      "path": "preprints/The-Blockwise-Alperin-Weight-Conjecture-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Bogomolov-Pop-reconstruction-theorem-September-23-2026",
+      "path": "preprints/The-Bogomolov-Pop-reconstruction-theorem-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Boltzmann-Grad-limit-for-stable-radial-potentials-on-regular-kinetic-intervals-September-23-2026",
+      "path": "preprints/The-Boltzmann-Grad-limit-for-stable-radial-potentials-on-regular-kinetic-intervals-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Campana-Peternell-conjecture-in-dimension-six-September-25-2026",
+      "path": "preprints/The-Campana-Peternell-conjecture-in-dimension-six-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "The-Critical-Spin-Field-of-the-Planar-XY-Model-October-5-2026",
+      "path": "preprints/The-Critical-Spin-Field-of-the-Planar-XY-Model-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "The-Deligne-Drinfeld-conjecture-September-23-2026",
+      "path": "preprints/The-Deligne-Drinfeld-conjecture-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Dimension-of-the-Two-Adic-Hecke-Algebra-at-Odd-Level-October-5-2026",
+      "path": "preprints/The-Dimension-of-the-Two-Adic-Hecke-Algebra-at-Odd-Level-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "The-E-times-CM-Component-of-Zilber-Pink-for-Curves-in-A2-September-24-2026",
+      "path": "preprints/The-E-times-CM-Component-of-Zilber-Pink-for-Curves-in-A2-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Euclidean-Steinitz-Bergstrom-theorem-September-24-2026",
+      "path": "preprints/The-Euclidean-Steinitz-Bergstrom-theorem-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-Euclidean-plane-is-not-five-colorable-September-23-2026",
+      "path": "preprints/The-Euclidean-plane-is-not-five-colorable-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-Factor-Two-Hardness-Threshold-for-Vertex-Cover-September-23-2026",
+      "path": "preprints/The-Factor-Two-Hardness-Threshold-for-Vertex-Cover-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-Falconer-distance-conjecture-in-all-dimensions-September-23-2026",
+      "path": "preprints/The-Falconer-distance-conjecture-in-all-dimensions-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Gaussian-Propeller-Bound-in-Every-Dimension-September-24-2026",
+      "path": "preprints/The-Gaussian-Propeller-Bound-in-Every-Dimension-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-Gaussian-free-field-limit-of-integer-Lipschitz-heights-with-two-arc-boundary-data-October-6-2026",
+      "path": "preprints/The-Gaussian-free-field-limit-of-integer-Lipschitz-heights-with-two-arc-boundary-data-October-6-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Gaussian-free-field-limit-of-the-balanced-six-vertex-model-with-variance-multiplier-1-over-arcsin-c-over-2-September-23-2026",
+      "path": "preprints/The-Gaussian-free-field-limit-of-the-balanced-six-vertex-model-with-variance-multiplier-1-over-arcsin-c-over-2-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-Generalized-Mukai-Conjecture-September-24-2026",
+      "path": "preprints/The-Generalized-Mukai-Conjecture-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-Grothendieck-homotopy-hypothesis-via-elementary-expansions-September-24-2026",
+      "path": "preprints/The-Grothendieck-homotopy-hypothesis-via-elementary-expansions-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026",
+      "path": "preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-Isoperimetric-Conjecture-for-the-Cubic-Flat-Three-Torus-September-24-2026",
+      "path": "preprints/The-Isoperimetric-Conjecture-for-the-Cubic-Flat-Three-Torus-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Kakeya-maximal-conjecture-in-three-dimensions-September-23-2026",
+      "path": "preprints/The-Kakeya-maximal-conjecture-in-three-dimensions-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Kerr-Newman-Penrose-Inequality-for-Axisymmetric-Electrovacuum-Exteriors-October-5-2026",
+      "path": "preprints/The-Kerr-Newman-Penrose-Inequality-for-Axisymmetric-Electrovacuum-Exteriors-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "The-Kervaire-Invariant-Problem-at-the-Prime-Three-September-24-2026",
+      "path": "preprints/The-Kervaire-Invariant-Problem-at-the-Prime-Three-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Kervaire-Theorem-for-Groups-September-24-2026",
+      "path": "preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Kirchberg-Rordam-character-criterion-September-25-2026",
+      "path": "preprints/The-Kirchberg-Rordam-character-criterion-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Mahler-Conjecture-for-General-Convex-Bodies-September-22-2026",
+      "path": "preprints/The-Mahler-Conjecture-for-General-Convex-Bodies-September-22-2026/build/main.tex"
+    },
+    {
+      "id": "The-Margulis-Platonov-conjecture-over-global-function-fields-October-5-2026",
+      "path": "preprints/The-Margulis-Platonov-conjecture-over-global-function-fields-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "The-Margulis-Platonov-conjecture-over-number-fields-September-23-2026",
+      "path": "preprints/The-Margulis-Platonov-conjecture-over-number-fields-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Mezard-Parisi-formula-for-diluted-spin-glasses-September-23-2026",
+      "path": "preprints/The-Mezard-Parisi-formula-for-diluted-spin-glasses-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-PCP-for-PPAD-conjecture-a-quasilinear-reduction-September-25-2026",
+      "path": "preprints/The-PCP-for-PPAD-conjecture-a-quasilinear-reduction-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "The-Partition-Principle-does-not-imply-Choice-September-24-2026",
+      "path": "preprints/The-Partition-Principle-does-not-imply-Choice-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-Penrose-inequality-for-maximal-asymptotically-hyperbolic-initial-data-October-5-2026",
+      "path": "preprints/The-Penrose-inequality-for-maximal-asymptotically-hyperbolic-initial-data-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Poisson-Dirichlet-Law-for-Prime-Predecessors-September-24-2026",
+      "path": "preprints/The-Poisson-Dirichlet-Law-for-Prime-Predecessors-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Quasi-Riemann-Hypothesis-October-5-2026",
+      "path": "preprints/The-Quasi-Riemann-Hypothesis-October-5-2026/build/paper2.tex"
+    },
+    {
+      "id": "The-Quasi-Riemann-Hypothesis-September-30-2026",
+      "path": "preprints/The-Quasi-Riemann-Hypothesis-September-30-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026",
+      "path": "preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "The-Restricted-Geometric-Langlands-Equivalence-in-Positive-Characteristic-September-24-2026",
+      "path": "preprints/The-Restricted-Geometric-Langlands-Equivalence-in-Positive-Characteristic-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-Selmer-converse-for-elliptic-curves-at-every-prime-October-7-2026",
+      "path": "preprints/The-Selmer-converse-for-elliptic-curves-at-every-prime-October-7-2026/build/main.tex"
+    },
+    {
+      "id": "The-Sharp-Logarithmic-Exponent-of-r-5-t-September-24-2026",
+      "path": "preprints/The-Sharp-Logarithmic-Exponent-of-r-5-t-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026",
+      "path": "preprints/The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Singer-conjecture-in-dimension-four-September-25-2026",
+      "path": "preprints/The-Singer-conjecture-in-dimension-four-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Solomon-Yau-least-volume-theorem-September-23-2026",
+      "path": "preprints/The-Solomon-Yau-least-volume-theorem-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Stable-Hurewicz-Image-of-the-Sphere-at-Two-September-25-2026",
+      "path": "preprints/The-Stable-Hurewicz-Image-of-the-Sphere-at-Two-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "The-Strong-Hyperkahler-SYZ-Conjecture-September-23-2026",
+      "path": "preprints/The-Strong-Hyperkahler-SYZ-Conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-Subcritical-Henon-Lane-Emden-Conjecture-September-24-2026",
+      "path": "preprints/The-Subcritical-Henon-Lane-Emden-Conjecture-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-Unique-Games-Theorem-September-23-2026",
+      "path": "preprints/The-Unique-Games-Theorem-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-abelianity-conjecture-for-special-compact-Kahler-manifolds-September-23-2026",
+      "path": "preprints/The-abelianity-conjecture-for-special-compact-Kahler-manifolds-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "The-affine-Bernstein-theorem-in-dimensions-three-through-nine-September-24-2026",
+      "path": "preprints/The-affine-Bernstein-theorem-in-dimensions-three-through-nine-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-arithmetic-category-and-stable-recovery-of-lattice-factors-September-23-2026",
+      "path": "preprints/The-arithmetic-category-and-stable-recovery-of-lattice-factors-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "The-canonical-massive-continuum-limit-of-the-two-dimensional-O3-model-October-4-2026",
+      "path": "preprints/The-canonical-massive-continuum-limit-of-the-two-dimensional-O3-model-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "The-circulant-Hadamard-conjecture-September-23-2026",
+      "path": "preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-complete-Crouzeix-theorem-September-23-2026",
+      "path": "preprints/The-complete-Crouzeix-theorem-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-complexity-of-identifying-a-graph-by-Weisfeiler-Leman-refinement-September-25-2026",
+      "path": "preprints/The-complexity-of-identifying-a-graph-by-Weisfeiler-Leman-refinement-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "The-cotype-cotype-conjecture-under-the-approximation-property-September-23-2026",
+      "path": "preprints/The-cotype-cotype-conjecture-under-the-approximation-property-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-critical-Liouville-quantum-sphere-and-geometric-limits-of-FK-maps-at-q-equals-4-September-24-2026",
+      "path": "preprints/The-critical-Liouville-quantum-sphere-and-geometric-limits-of-FK-maps-at-q-equals-4-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-critical-correlation-exponent-of-the-planar-XY-model-September-24-2026",
+      "path": "preprints/The-critical-correlation-exponent-of-the-planar-XY-model-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-critical-dimension-for-one-phase-Bernoulli-minimizers-September-24-2026",
+      "path": "preprints/The-critical-dimension-for-one-phase-Bernoulli-minimizers-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-critical-logarithmic-correction-for-the-planar-XY-model-October-5-2026",
+      "path": "preprints/The-critical-logarithmic-correction-for-the-planar-XY-model-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "The-crossing-number-of-complete-bipartite-graphs-September-23-2026",
+      "path": "preprints/The-crossing-number-of-complete-bipartite-graphs-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "The-crossing-number-of-complete-graphs-September-23-2026",
+      "path": "preprints/The-crossing-number-of-complete-graphs-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-curve-scaling-limit-of-half-plane-double-dimers-September-23-2026",
+      "path": "preprints/The-curve-scaling-limit-of-half-plane-double-dimers-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-dyadic-case-of-the-Erdos-similarity-conjecture-September-25-2026",
+      "path": "preprints/The-dyadic-case-of-the-Erdos-similarity-conjecture-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "The-entropy-photon-number-inequality-September-24-2026",
+      "path": "preprints/The-entropy-photon-number-inequality-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-entropy-rate-dimension-formula-for-self-similar-measures-on-the-line-September-24-2026",
+      "path": "preprints/The-entropy-rate-dimension-formula-for-self-similar-measures-on-the-line-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-equivariant-cohomological-Hikita-conjecture-for-arbitrary-quivers-September-24-2026",
+      "path": "preprints/The-equivariant-cohomological-Hikita-conjecture-for-arbitrary-quivers-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026",
+      "path": "preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "The-first-lattice-correction-to-Blochs-law-October-5-2026",
+      "path": "preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "The-free-energy-of-the-Ising-random-perceptron-September-24-2026",
+      "path": "preprints/The-free-energy-of-the-Ising-random-perceptron-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-free-energy-of-the-spherical-random-perceptron-September-24-2026",
+      "path": "preprints/The-free-energy-of-the-spherical-random-perceptron-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026",
+      "path": "preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "The-geometric-case-of-the-Erdos-similarity-conjecture-October-5-2026",
+      "path": "preprints/The-geometric-case-of-the-Erdos-similarity-conjecture-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "The-height-three-chromatic-overlap-an-explicit-filtration-and-its-attachments-September-27-2026",
+      "path": "preprints/The-height-three-chromatic-overlap-an-explicit-filtration-and-its-attachments-September-27-2026/build/paper.tex"
+    },
+    {
+      "id": "The-higher-dimensional-Erdos-distinct-distances-conjecture-September-23-2026",
+      "path": "preprints/The-higher-dimensional-Erdos-distinct-distances-conjecture-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "The-hypercube-Ramsey-number-has-linear-order-September-23-2026",
+      "path": "preprints/The-hypercube-Ramsey-number-has-linear-order-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-irrationality-exponent-of-pi-is-2-September-24-2026",
+      "path": "preprints/The-irrationality-exponent-of-pi-is-2-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-joint-Dickman-law-for-consecutive-integers-September-24-2026",
+      "path": "preprints/The-joint-Dickman-law-for-consecutive-integers-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-joint-scaling-limit-of-critical-Ashkin-Teller-currents-October-6-2026",
+      "path": "preprints/The-joint-scaling-limit-of-critical-Ashkin-Teller-currents-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "The-l1-Bass-Conjecture-for-Discrete-Groups-October-5-2026",
+      "path": "preprints/The-l1-Bass-Conjecture-for-Discrete-Groups-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "The-logarithmic-Brunn-Minkowski-conjecture-September-23-2026",
+      "path": "preprints/The-logarithmic-Brunn-Minkowski-conjecture-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "The-low-temperature-Sherrington-Kirkpatrick-fluctuation-scale-September-24-2026",
+      "path": "preprints/The-low-temperature-Sherrington-Kirkpatrick-fluctuation-scale-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-low-temperature-Sherrington-Kirkpatrick-free-energy-limiting-law-September-24-2026",
+      "path": "preprints/The-low-temperature-Sherrington-Kirkpatrick-free-energy-limiting-law-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-maximal-triangular-Hilbert-transform-at-the-symmetric-point-September-24-2026",
+      "path": "preprints/The-maximal-triangular-Hilbert-transform-at-the-symmetric-point-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-maximum-number-of-mutually-unbiased-bases-in-dimension-six-September-24-2026",
+      "path": "preprints/The-maximum-number-of-mutually-unbiased-bases-in-dimension-six-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-mean-analytic-rank-of-quadratic-twists-of-elliptic-curves-October-6-2026",
+      "path": "preprints/The-mean-analytic-rank-of-quadratic-twists-of-elliptic-curves-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "The-nonmaximal-anti-de-Sitter-Penrose-Inequality-and-original-data-rigidity-October-5-2026",
+      "path": "preprints/The-nonmaximal-anti-de-Sitter-Penrose-Inequality-and-original-data-rigidity-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "The-normalized-volume-gap-in-dimension-four-September-24-2026",
+      "path": "preprints/The-normalized-volume-gap-in-dimension-four-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-ordinary-double-point-gap-in-every-dimension-September-24-2026",
+      "path": "preprints/The-ordinary-double-point-gap-in-every-dimension-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-p-adic-section-conjecture-October-6-2026",
+      "path": "preprints/The-p-adic-section-conjecture-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "The-periodic-spin-one-Haldane-gap-September-24-2026",
+      "path": "preprints/The-periodic-spin-one-Haldane-gap-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "The-rational-Hodge-conjecture-for-CM-abelian-varieties-October-6-2026",
+      "path": "preprints/The-rational-Hodge-conjecture-for-CM-abelian-varieties-October-6-2026/build/main.tex"
+    },
+    {
+      "id": "The-reverse-logarithmic-Kodaira-inequality-and-additivity-September-26-2026",
+      "path": "preprints/The-reverse-logarithmic-Kodaira-inequality-and-additivity-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "The-second-Kahn-Kalai-conjecture-September-24-2026",
+      "path": "preprints/The-second-Kahn-Kalai-conjecture-September-24-2026/build/source/main.tex"
+    },
+    {
+      "id": "The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026",
+      "path": "preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex"
+    },
+    {
+      "id": "The-sharp-factor-of-IID-threshold-for-the-free-Ising-model-on-regular-trees-September-26-2026",
+      "path": "preprints/The-sharp-factor-of-IID-threshold-for-the-free-Ising-model-on-regular-trees-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026",
+      "path": "preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "The-spacetime-Penrose-inequality-and-enclosing-area-September-27-2026",
+      "path": "preprints/The-spacetime-Penrose-inequality-and-enclosing-area-September-27-2026/build/paper.tex"
+    },
+    {
+      "id": "The-spacetime-Penrose-inequality-with-charge-and-original-data-rigidity-October-5-2026",
+      "path": "preprints/The-spacetime-Penrose-inequality-with-charge-and-original-data-rigidity-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026",
+      "path": "preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "The-spherical-perceptron-with-bi-orthogonally-invariant-disorder-September-24-2026",
+      "path": "preprints/The-spherical-perceptron-with-bi-orthogonally-invariant-disorder-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "The-strong-thin-tree-conjecture-September-23-2026",
+      "path": "preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/main.tex"
+    },
+    {
+      "id": "The-symmetric-Mahler-conjecture-and-its-equality-cases-September-22-2026",
+      "path": "preprints/The-symmetric-Mahler-conjecture-and-its-equality-cases-September-22-2026/build/main.tex"
+    },
+    {
+      "id": "The-trace-cone-classifies-Razak-Jacelon-stabilizations-September-25-2026",
+      "path": "preprints/The-trace-cone-classifies-Razak-Jacelon-stabilizations-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "The-two-primary-Birch-Swinnerton-Dyer-formula-in-Selmer-corank-at-most-one-October-6-2026",
+      "path": "preprints/The-two-primary-Birch-Swinnerton-Dyer-formula-in-Selmer-corank-at-most-one-October-6-2026/build/paper.tex"
+    },
+    {
+      "id": "The-unique-threshold-bound-state-of-the-SU-N-BFSS-model-September-24-2026",
+      "path": "preprints/The-unique-threshold-bound-state-of-the-SU-N-BFSS-model-September-24-2026/build/manuscript/main.tex"
+    },
+    {
+      "id": "The-weak-inhomogeneous-Duffin-Schaeffer-conjecture-September-25-2026",
+      "path": "preprints/The-weak-inhomogeneous-Duffin-Schaeffer-conjecture-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "The-weak-pinned-planar-distance-theorem-September-23-2026",
+      "path": "preprints/The-weak-pinned-planar-distance-theorem-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Thermal-FK-Ising-interfaces-and-massive-SLE-October-5-2026",
+      "path": "preprints/Thermal-FK-Ising-interfaces-and-massive-SLE-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026",
+      "path": "preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Thompsons-group-F-is-nonamenable-September-23-2026",
+      "path": "preprints/Thompsons-group-F-is-nonamenable-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Threshold-parallel-repetition-for-finite-dimensional-entangled-games-September-25-2026",
+      "path": "preprints/Threshold-parallel-repetition-for-finite-dimensional-entangled-games-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026",
+      "path": "preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Tracial-projection-methods-and-uniform-property-Gamma-September-23-2026",
+      "path": "preprints/Tracial-projection-methods-and-uniform-property-Gamma-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Translative-covering-densities-of-order-n-log-n-September-23-2026",
+      "path": "preprints/Translative-covering-densities-of-order-n-log-n-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Tree-Constructions-for-the-l1-Distortion-of-Binary-Edit-Distance-September-27-2026",
+      "path": "preprints/Tree-Constructions-for-the-l1-Distortion-of-Binary-Edit-Distance-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Triangular-minimality-for-planar-Coulomb-renormalized-energy-September-23-2026",
+      "path": "preprints/Triangular-minimality-for-planar-Coulomb-renormalized-energy-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Triple-ergodic-averages-with-distinct-integer-slopes-October-4-2026",
+      "path": "preprints/Triple-ergodic-averages-with-distinct-integer-slopes-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "Turn-Based-Stochastic-Mean-Payoff-Games-in-Deterministic-Quasipolynomial-Time-October-5-2026",
+      "path": "preprints/Turn-Based-Stochastic-Mean-Payoff-Games-in-Deterministic-Quasipolynomial-Time-October-5-2026/build/build/main.tex"
+    },
+    {
+      "id": "Two-step-monodromy-of-special-quasi-projective-varieties-September-24-2026",
+      "path": "preprints/Two-step-monodromy-of-special-quasi-projective-varieties-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Ultraflat-real-Littlewood-polynomials-October-5-2026",
+      "path": "preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026",
+      "path": "preprints/Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Unconditional-time-lower-bounds-for-Weisfeiler-Leman-equivalence-September-25-2026",
+      "path": "preprints/Unconditional-time-lower-bounds-for-Weisfeiler-Leman-equivalence-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026",
+      "path": "preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Uniform-Cartier-sections-for-Fano-type-contractions-September-25-2026",
+      "path": "preprints/Uniform-Cartier-sections-for-Fano-type-contractions-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Uniform-Interior-C1alpha-Estimates-for-Infinity-Harmonic-Functions-October-4-2026",
+      "path": "preprints/Uniform-Interior-C1alpha-Estimates-for-Infinity-Harmonic-Functions-October-4-2026/build/manuscript/main.tex"
+    },
+    {
+      "id": "Uniform-Matrix-Hitting-Points-in-Every-Positive-Characteristic-October-4-2026",
+      "path": "preprints/Uniform-Matrix-Hitting-Points-in-Every-Positive-Characteristic-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "Uniform-Permanence-in-Weakly-Reversible-Mass-Action-Systems-October-5-2026",
+      "path": "preprints/Uniform-Permanence-in-Weakly-Reversible-Mass-Action-Systems-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Uniform-Pluricanonical-Iitaka-Fibrations-October-3-2026",
+      "path": "preprints/Uniform-Pluricanonical-Iitaka-Fibrations-October-3-2026/build/main.tex"
+    },
+    {
+      "id": "Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026",
+      "path": "preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "Uniform-computation-of-the-squared-logarithmic-k-server-bound-September-24-2026",
+      "path": "preprints/Uniform-computation-of-the-squared-logarithmic-k-server-bound-September-24-2026/build/source/main.tex"
+    },
+    {
+      "id": "Uniform-effective-log-Iitaka-fibrations-for-fourfolds-September-26-2026",
+      "path": "preprints/Uniform-effective-log-Iitaka-fibrations-for-fourfolds-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Uniform-excess-charge-for-Coulomb-molecules-and-the-outer-radius-of-neutral-atoms-September-24-2026",
+      "path": "preprints/Uniform-excess-charge-for-Coulomb-molecules-and-the-outer-radius-of-neutral-atoms-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Uniform-exclusion-of-Landau-Siegel-zeros-October-1-2026",
+      "path": "preprints/Uniform-exclusion-of-Landau-Siegel-zeros-October-1-2026/build/paper.tex"
+    },
+    {
+      "id": "Uniform-indices-for-semi-log-canonical-log-Calabi-Yau-pairs-October-5-2026",
+      "path": "preprints/Uniform-indices-for-semi-log-canonical-log-Calabi-Yau-pairs-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Uniform-log-Iitaka-fibrations-and-bounded-moduli-denominators-October-4-2026",
+      "path": "preprints/Uniform-log-Iitaka-fibrations-and-bounded-moduli-denominators-October-4-2026/build/main.tex"
+    },
+    {
+      "id": "Uniform-marked-polygon-estimates-and-sharp-finite-bridge-moments-September-26-2026",
+      "path": "preprints/Uniform-marked-polygon-estimates-and-sharp-finite-bridge-moments-September-26-2026/build/main.tex"
+    },
+    {
+      "id": "Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026",
+      "path": "preprints/Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026/build/manuscript/main.tex"
+    },
+    {
+      "id": "Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-October-6-2026",
+      "path": "preprints/Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-October-6-2026/build/paper.tex"
+    },
+    {
+      "id": "Uniformization-of-complete-Kahler-manifolds-with-positive-bisectional-curvature-September-23-2026",
+      "path": "preprints/Uniformization-of-complete-Kahler-manifolds-with-positive-bisectional-curvature-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Unitarizability-Implies-Amenability-for-Countable-Groups-September-23-2026",
+      "path": "preprints/Unitarizability-Implies-Amenability-for-Countable-Groups-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Universal-Computation-with-Eventually-Stationary-Navier-Stokes-Forcing-September-27-2026",
+      "path": "preprints/Universal-Computation-with-Eventually-Stationary-Navier-Stokes-Forcing-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Universal-Tensor-Squares-for-Symmetric-Groups-September-24-2026",
+      "path": "preprints/Universal-Tensor-Squares-for-Symmetric-Groups-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Universal-cover-splitting-for-compact-Kahler-manifolds-September-23-2026",
+      "path": "preprints/Universal-cover-splitting-for-compact-Kahler-manifolds-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Universal-optimality-of-the-triangular-lattice-September-23-2026",
+      "path": "preprints/Universal-optimality-of-the-triangular-lattice-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Universal-strong-Kadison-Kastler-stability-September-23-2026",
+      "path": "preprints/Universal-strong-Kadison-Kastler-stability-September-23-2026/build/main.tex"
+    },
+    {
+      "id": "Universality-of-critical-quench-autocorrelations-in-the-Sherrington-Kirkpatrick-model-October-5-2026",
+      "path": "preprints/Universality-of-critical-quench-autocorrelations-in-the-Sherrington-Kirkpatrick-model-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Unrestricted-pro-modularity-at-the-prime-two-October-6-2026",
+      "path": "preprints/Unrestricted-pro-modularity-at-the-prime-two-October-6-2026/build/source/main.tex"
+    },
+    {
+      "id": "Vanishing-of-higher-bounded-Hochschild-cohomology-September-23-2026",
+      "path": "preprints/Vanishing-of-higher-bounded-Hochschild-cohomology-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "Variable-dimension-Weisfeiler-Leman-equivalence-on-general-and-subcubic-graphs-September-25-2026",
+      "path": "preprints/Variable-dimension-Weisfeiler-Leman-equivalence-on-general-and-subcubic-graphs-September-25-2026/build/main.tex"
+    },
+    {
+      "id": "Variance-of-the-Random-k-SAT-Hitting-Time-September-27-2026",
+      "path": "preprints/Variance-of-the-Random-k-SAT-Hitting-Time-September-27-2026/build/source/paper.tex"
+    },
+    {
+      "id": "Velocity-Field-Detection-of-Computation-in-Forced-Navier-Stokes-Flows-September-27-2026",
+      "path": "preprints/Velocity-Field-Detection-of-Computation-in-Forced-Navier-Stokes-Flows-September-27-2026/build/main.tex"
+    },
+    {
+      "id": "Virasoro-Constraints-for-Projective-Complete-Intersections-September-24-2026",
+      "path": "preprints/Virasoro-Constraints-for-Projective-Complete-Intersections-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Virasoro-Constraints-under-Projectivization-October-5-2026",
+      "path": "preprints/Virasoro-Constraints-under-Projectivization-October-5-2026/build/paper.tex"
+    },
+    {
+      "id": "Virtual-compact-specialness-of-hyperbolic-one-relator-groups-September-25-2026",
+      "path": "preprints/Virtual-compact-specialness-of-hyperbolic-one-relator-groups-September-25-2026/build/source/main.tex"
+    },
+    {
+      "id": "Weak-Hessian-bounds-along-every-geodesic-in-RCD-spaces-September-24-2026",
+      "path": "preprints/Weak-Hessian-bounds-along-every-geodesic-in-RCD-spaces-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Weak-and-strong-normalization-in-pure-type-systems-September-25-2026",
+      "path": "preprints/Weak-and-strong-normalization-in-pure-type-systems-September-25-2026/build/paper.tex"
+    },
+    {
+      "id": "Weak-mixing-of-triangular-billiards-with-an-irrational-angle-October-5-2026",
+      "path": "preprints/Weak-mixing-of-triangular-billiards-with-an-irrational-angle-October-5-2026/build/main.tex"
+    },
+    {
+      "id": "Weak-pure-infiniteness-and-O-infinity-absorption-September-25-2026",
+      "path": "preprints/Weak-pure-infiniteness-and-O-infinity-absorption-September-25-2026/build/manuscript.tex"
+    },
+    {
+      "id": "Weighted-Dilation-Graphs-Smooth-Shifted-Primes-and-Totient-Fibers-September-24-2026",
+      "path": "preprints/Weighted-Dilation-Graphs-Smooth-Shifted-Primes-and-Totient-Fibers-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "Weil-classes-and-Hodge-classes-on-abelian-powers-October-6-2026",
+      "path": "preprints/Weil-classes-and-Hodge-classes-on-abelian-powers-October-6-2026/build/paper.tex"
+    },
+    {
+      "id": "Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026",
+      "path": "preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "Zero-Plane-Rigidity-for-Einstein-Four-Manifolds-October-4-2026",
+      "path": "preprints/Zero-Plane-Rigidity-for-Einstein-Four-Manifolds-October-4-2026/build/paper.tex"
+    },
+    {
+      "id": "a-torsion-free-hyperbolic-group-that-is-not-residually-finite-September-23-2026",
+      "path": "preprints/a-torsion-free-hyperbolic-group-that-is-not-residually-finite-September-23-2026/build/paper.tex"
+    },
+    {
+      "id": "ample-rank-two-bundles-on-the-quadric-surface-without-griffiths-positive-metrics-September-24-2026",
+      "path": "preprints/ample-rank-two-bundles-on-the-quadric-surface-without-griffiths-positive-metrics-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "quantitative-lower-bounds-for-trace-reconstruction-September-24-2026",
+      "path": "preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "quasi-isometric-recognition-of-virtually-polycyclic-groups-September-24-2026",
+      "path": "preprints/quasi-isometric-recognition-of-virtually-polycyclic-groups-September-24-2026/build/main.tex"
+    },
+    {
+      "id": "the-additive-indecomposability-of-the-primes-September-24-2026",
+      "path": "preprints/the-additive-indecomposability-of-the-primes-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "two-limit-cycles-for-quintic-lienard-systems-September-24-2026",
+      "path": "preprints/two-limit-cycles-for-quintic-lienard-systems-September-24-2026/build/paper.tex"
+    },
+    {
+      "id": "uniform-bounds-for-planar-polynomial-limit-cycles-September-24-2026",
+      "path": "preprints/uniform-bounds-for-planar-polynomial-limit-cycles-September-24-2026/build/main.tex"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "The-metric-Blaschke-theorem-September-23-2026",
+      "reason": "Native entry point references unavailable figures/schur-paths.tikz and figures/attachment-square.tikz."
+    }
+  ]
+}
