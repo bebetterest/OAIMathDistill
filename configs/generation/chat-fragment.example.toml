@@ -1,0 +1,43 @@
+# Copy this file and supply an endpoint/model before a real API run.
+project_root = "../.."
+source_root = "math"
+
+[run]
+output = "runs/chat-fragment-example"
+concurrency = 1
+
+[backends.api_generation]
+kind = "chat"
+base_url = "http://127.0.0.1:8000/v1"
+model = "replace-with-your-model"
+timeout = 120
+max_tokens = 8192
+temperature = 0.7
+json_mode = true
+# api_key_env = "MATH_GENERATION_API_KEY"
+# token_field = "max_completion_tokens"
+
+[backends.api_review]
+kind = "chat"
+base_url = "http://127.0.0.1:8000/v1"
+model = "replace-with-your-review-model"
+timeout = 120
+max_tokens = 8192
+temperature = 0.0
+json_mode = true
+# api_key_env = "MATH_REVIEW_API_KEY"
+
+[generation]
+backend = "api_generation"
+
+[review]
+backend = "api_review"
+
+[[sources]]
+id = "definition"
+mode = "fragment"
+text = "For positive real x, division by x is defined and x/x = 1."
+
+[[methods]]
+name = "reading"
+params = {count = 1, form = "qa"}

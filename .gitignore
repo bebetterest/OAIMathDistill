@@ -1,0 +1,35 @@
+# Python development
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+build/
+dist/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Local process records and logs
+/diary/
+/logs/
+*.log
+*.bundle
+
+# Generated material and experiment outputs
+/data/
+/runs/
+/checkpoints/
+/outputs/
+
+# Editor and operating system files
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,67 @@
+# Eight construction jobs, at most one candidate each. Paths are project-relative.
+project_root = "../.."
+source_root = "math"
+
+[run]
+output = "runs/pilot"
+concurrency = 1
+
+[backends.codex]
+kind = "codex"
+command = ["codex"]
+timeout = 600
+# Omit model/profile to inherit the user's existing CLI configuration.
+
+[generation]
+backend = "codex"
+
+[review]
+backend = "codex"
+
+[[sources]]
+id = "product_fragment"
+mode = "fragment"
+path = "math/preprints/A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026/build/main.tex"
+ranges = [[54, 58], [193, 238]]
+
+[[sources]]
+id = "product_paper"
+mode = "agent"
+path = "math/preprints/A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026/build/main.tex"
+
+[[methods]]
+name = "local_proof"
+sources = ["product_fragment", "product_paper"]
+params = {count = 1}
+
+[[methods]]
+name = "proof_completion"
+sources = ["product_fragment"]
+params = {count = 1}
+
+[[methods]]
+name = "proof_repair"
+sources = ["product_fragment"]
+params = {count = 1}
+
+[[methods]]
+name = "reading"
+id = "reading_qa"
+sources = ["product_fragment"]
+params = {count = 1, form = "qa"}
+
+[[methods]]
+name = "reading"
+id = "reading_explanation"
+sources = ["product_paper"]
+params = {count = 1, form = "explanation"}
+
+[[methods]]
+name = "reflection"
+sources = ["product_fragment"]
+params = {count = 1}
+
+[[methods]]
+name = "exploration"
+sources = ["product_fragment"]
+params = {count = 1}

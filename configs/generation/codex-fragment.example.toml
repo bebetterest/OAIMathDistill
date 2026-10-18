@@ -1,0 +1,29 @@
+# One local-text task using the existing Codex CLI configuration.
+project_root = "../.."
+source_root = "math"
+
+[run]
+output = "runs/codex-fragment-example"
+concurrency = 1
+
+[backends.codex]
+kind = "codex"
+timeout = 600
+# model = "your-model"
+# profile = "your-existing-profile"
+
+[generation]
+backend = "codex"
+
+# Review defaults to a fresh request using the generation backend.
+[[sources]]
+id = "definition"
+mode = "fragment"
+text = "For positive real x, division by x is defined and x/x = 1."
+# To use a file, remove text and set path and optional ranges instead:
+# path = "math/preprints/your-paper/build/main.tex"
+# ranges = [[10, 30], [45, 60]]
+
+[[methods]]
+name = "reading"
+params = {count = 1, form = "qa", focus = "the role of assumptions"}

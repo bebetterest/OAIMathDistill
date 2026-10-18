@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oaimathdistill"
+version = "0.1.0"
+description = "Synthetic training data from OpenAI Math for supervised fine-tuning of open models"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { file = "LICENSE" }
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["oaimathdistill*"]
+
+[tool.setuptools.package-data]
+"oaimathdistill.generation" = ["prompts/*.md"]
